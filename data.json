@@ -1,92 +1,97 @@
 {
-    "0":{
-        "label":"Monuments and memorials to the Katy\u0144 Massacre in Budapest",
-        "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Katy%C5%84%20memorial%20in%20Budapest.JPG",
-        "entityID":"Q467335",
-        "format":"JPG",
-        "path":".\/images\/Monuments and memorials to the Katy\u0144 Massacre in Budapest.JPG",
-        "size":[
-            1024,
-            680
-        ],
-        "tags":[
-            "#monument"
-        ],
-        "orientation":null,
-        "artist":"Picasa",
-        "date":"2012:04:15 19:26:52",
-        "appareil":"NIKON D90"
-    },
-    "1":{
-        "label":"Union of Lublin Mound",
-        "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Lw%C3%B3w%20-%20kopiec%20Unii%20Lubelskiej.jpg",
-        "entityID":"Q468636",
-        "format":"jpg",
-        "path":".\/images\/Union of Lublin Mound.jpg",
-        "size":[
-            2044,
-            1533
-        ],
-        "tags":[
-            "#monument"
-        ],
-        "orientation":null,
-        "artist":null,
-        "date":"2009:03:06 19:53:25",
-        "appareil":"DiMAGE Z1"
-    },
-    "2":{
-        "label":"Chateau-Thierry American Monument",
-        "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Monument%20am%C3%A9ricain%20de%20Ch%C3%A2teau-Thierry.jpg",
-        "entityID":"Q470013",
-        "format":"jpg",
-        "path":".\/images\/Chateau-Thierry American Monument.jpg",
-        "size":[
-            1600,
-            1067
-        ],
-        "tags":[
-            "#monument"
-        ],
-        "orientation":null,
-        "artist":"Picasa",
-        "date":"2021:09:08 20:51:22",
-        "appareil":"DSC-RX100"
-    },
-    "3":{
-        "label":"National Monument on Dam Square",
-        "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Overzicht%20voorzijde%20-%20Amsterdam%20-%2020357041%20-%20RCE.jpg",
-        "entityID":"Q473851",
-        "format":"jpg",
-        "path":".\/images\/National Monument on Dam Square.jpg",
-        "size":[
-            3038,
-            3083
-        ],
-        "tags":[
-            "#monument"
-        ],
-        "orientation":null,
-        "artist":null,
-        "date":null,
-        "appareil":null
-    },
-    "4":{
-        "label":"Praileaitz Cave",
-        "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Praileaitz.jpg",
-        "entityID":"Q478482",
-        "format":"jpg",
-        "path":".\/images\/Praileaitz Cave.jpg",
-        "size":[
-            500,
-            375
-        ],
-        "tags":[
-            "#monument"
-        ],
-        "orientation":null,
-        "artist":null,
-        "date":null,
-        "appareil":null
-    }
+  "0":{
+    "label":"Canale dei Buranelli",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Il%20canale%20dei%20Buranelli.jpg",
+    "entityID":"Q5583",
+    "format":"jpg",
+    "path":".\/images\/Canale dei Buranelli.jpg",
+    "size":[
+      6048,
+      4032
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument"
+    ],
+    "orientation":1,
+    "artist":null,
+    "date":"2011:05:15 19:43:53",
+    "appareil":"DSLR-A850"
+  },
+  "1":{
+    "label":"Monument to Pedro IV (Porto)",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/D.%20Pedro%20IV%20Porto.JPG",
+    "entityID":"Q11783",
+    "format":"JPG",
+    "path":".\/images\/Monument to Pedro IV (Porto).JPG",
+    "size":[
+      800,
+      600
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument"
+    ],
+    "orientation":1,
+    "artist":null,
+    "date":"2006:05:01 10:11:42",
+    "appareil":"CYBERSHOT"
+  },
+  "2":{
+    "label":"Sunken Ships Monument",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/2012-09-09%20%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%20%D0%B7%D0%B0%D1%82%D0%BE%D0%BF%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%BC%20%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8F%D0%BC%20%D0%B2%20%D0%A1%D0%B5%D0%B2%D0%B0%D1%81%D1%82%D0%BE%D0%BF%D0%BE%D0%BB%D0%B5%20%281%29.jpg",
+    "entityID":"Q14681",
+    "format":"jpg",
+    "path":".\/images\/Sunken Ships Monument.jpg",
+    "size":[
+      2500,
+      3333
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument"
+    ],
+    "orientation":1,
+    "artist":null,
+    "date":"2012:09:30 17:43:55",
+    "appareil":"Canon PowerShot SX40 HS"
+  },
+  "3":{
+    "label":"Lu Xun Memorial Hall",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/%E4%B8%8A%E6%B5%B7%E9%B2%81%E8%BF%85%E7%BA%AA%E5%BF%B5%E9%A6%86.jpg",
+    "entityID":"Q23180",
+    "format":"jpg",
+    "path":".\/images\/Lu Xun Memorial Hall.jpg",
+    "size":[
+      2000,
+      1125
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument"
+    ],
+    "orientation":1,
+    "artist":"Picasa",
+    "date":"2011:10:30 21:36:27",
+    "appareil":"DMC-LX5"
+  },
+  "4":{
+    "label":"Slovak monument",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/%D0%9B%D0%B8%D0%BF%D0%BE%D0%B2%D0%B5%D1%86%D1%8C%2C%20%D0%91%D1%80%D0%B0%D1%82%D1%81%D1%8C%D0%BA%D0%B0%20%D0%BC%D0%BE%D0%B3%D0%B8%D0%BB%D0%B0%20%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%86%D1%8C%D0%BA%D0%B8%D1%85%20%D1%81%D0%BE%D0%BB%D0%B4%D0%B0%D1%82%D1%96%D0%B2%20%D0%B7%D0%B0%D0%B3%D0%B8%D0%B1%D0%BB%D0%B8%D1%85%20%D0%BF%D1%96%D0%B4%20%D1%87%D0%B0%D1%81%20%D0%BD%D0%B0%D1%81%D1%82%D1%83%D0%BF%D1%83.jpg",
+    "entityID":"Q25477",
+    "format":"jpg",
+    "path":".\/images\/Slovak monument.jpg",
+    "size":[
+      5472,
+      3648
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument"
+    ],
+    "orientation":1,
+    "artist":"PRYMASAL",
+    "date":"2017:05:19 13:01:26",
+    "appareil":"Canon EOS 70D"
+  }
 }
