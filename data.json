@@ -1,0 +1,42 @@
+{
+  "0":{
+    "label":"senior cats",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/%D0%9E%D1%80%D0%B5%D0%B4%D0%B5%D0%B6%2C%20%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D0%B0%D1%8F%209%2C%20%D0%BA%D0%BE%D1%82%20%28cropped%29.jpg",
+    "wikiDataRef":"http:\/\/www.wikidata.org\/entity\/Q123185365",
+    "format":"jpg",
+    "path":".\/images\/senior cats.jpg",
+    "size":null
+  },
+  "1":{
+    "label":"CC",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Ccandowner2003.jpg",
+    "wikiDataRef":"http:\/\/www.wikidata.org\/entity\/Q378619",
+    "format":"jpg",
+    "path":".\/images\/CC.jpg",
+    "size":null
+  },
+  "2":{
+    "label":"Orangey",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Orangey%20with%20Audrey%20Hepburn%20in%20Breakfast%20at%20Tiffanys.jpg",
+    "wikiDataRef":"http:\/\/www.wikidata.org\/entity\/Q677525",
+    "format":"jpg",
+    "path":".\/images\/Orangey.jpg",
+    "size":null
+  },
+  "3":{
+    "label":"Mrs. Chippy",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Mrschippy2.png",
+    "wikiDataRef":"http:\/\/www.wikidata.org\/entity\/Q851190",
+    "format":"png",
+    "path":".\/images\/Mrs. Chippy.png",
+    "size":null
+  },
+  "4":{
+    "label":"Unsinkable Sam",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Oscar%2C%20cat%20from%20the%20German%20ship%20%27Bismarck%27.jpg",
+    "wikiDataRef":"http:\/\/www.wikidata.org\/entity\/Q893453",
+    "format":"jpg",
+    "path":".\/images\/Unsinkable Sam.jpg",
+    "size":null
+  }
+}
