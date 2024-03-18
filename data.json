@@ -16,7 +16,8 @@
     "orientation":1,
     "artist":null,
     "date":"2014:04:07 21:35:39",
-    "appareil":"DMC-FZ38"
+    "appareil":"DMC-FZ38",
+    "dateTaken":"2014:04:07 21:35:39"
   },
   "1":{
     "label":"Santa B\u00e1rbara Castle",
@@ -35,7 +36,8 @@
     "orientation":1,
     "artist":null,
     "date":"2018:07:18 19:02:10",
-    "appareil":"Canon EOS 80D"
+    "appareil":"Canon EOS 80D",
+    "dateTaken":"2018:07:18 19:02:10"
   },
   "2":{
     "label":"Ponferrada Castle",
@@ -54,7 +56,8 @@
     "orientation":1,
     "artist":null,
     "date":null,
-    "appareil":null
+    "appareil":null,
+    "dateTaken":null
   },
   "3":{
     "label":"Castillo La Iruela",
@@ -73,7 +76,8 @@
     "orientation":1,
     "artist":"ANGEL CAMINERO",
     "date":"2015:05:18 13:54:21",
-    "appareil":"Canon PowerShot G9"
+    "appareil":"Canon PowerShot G9",
+    "dateTaken":"2015:05:18 13:54:21"
   },
   "4":{
     "label":"Castillo La Iruela",
@@ -92,6 +96,7 @@
     "orientation":1,
     "artist":"ANGEL CAMINERO",
     "date":"2015:05:18 13:54:21",
-    "appareil":"Canon PowerShot G9"
+    "appareil":"Canon PowerShot G9",
+    "dateTaken":"2015:05:18 13:54:21"
   }
 }
