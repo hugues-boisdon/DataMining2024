@@ -5,10 +5,7 @@
     "entityID":"Q473851",
     "format":"jpg",
     "path":".\/images\/National Monument on Dam Square.jpg",
-    "size":[
-      3038,
-      3083
-    ],
+    "size":"(3038, 3083)",
     "sizeCategory":null,
     "tags":[
       "#monument"
@@ -16,7 +13,47 @@
     "orientation":0,
     "artist":null,
     "dateTaken":null,
-    "appareil":null
+    "appareil":null,
+    "dColors":[
+      [
+        82,
+        81,
+        78
+      ],
+      [
+        154,
+        163,
+        177
+      ],
+      [
+        203,
+        200,
+        198
+      ],
+      [
+        45,
+        40,
+        36
+      ],
+      [
+        127,
+        122,
+        112
+      ],
+      [
+        104,
+        127,
+        171
+      ]
+    ],
+    "dProportions":[
+      0.1490572484,
+      0.2768785633,
+      0.1476052188,
+      0.114176507,
+      0.1305438705,
+      0.181738592
+    ]
   },
   "1":{
     "label":"Praileaitz Cave",
@@ -24,10 +61,7 @@
     "entityID":"Q478482",
     "format":"jpg",
     "path":".\/images\/Praileaitz Cave.jpg",
-    "size":[
-      4000,
-      3000
-    ],
+    "size":"(4000, 3000)",
     "sizeCategory":null,
     "tags":[
       "#monument"
@@ -35,7 +69,47 @@
     "orientation":1,
     "artist":null,
     "dateTaken":"2023:08:06 14:13:30",
-    "appareil":"V2023"
+    "appareil":"V2023",
+    "dColors":[
+      [
+        87,
+        75,
+        64
+      ],
+      [
+        223,
+        205,
+        176
+      ],
+      [
+        115,
+        104,
+        93
+      ],
+      [
+        18,
+        14,
+        14
+      ],
+      [
+        180,
+        157,
+        124
+      ],
+      [
+        67,
+        46,
+        30
+      ]
+    ],
+    "dProportions":[
+      0.222175,
+      0.0811916667,
+      0.2052166667,
+      0.2130833333,
+      0.0893583333,
+      0.188975
+    ]
   },
   "2":{
     "label":"Praileaitz Cave",
@@ -43,10 +117,7 @@
     "entityID":"Q478482",
     "format":"jpg",
     "path":".\/images\/Praileaitz Cave.jpg",
-    "size":[
-      4000,
-      3000
-    ],
+    "size":"(4000, 3000)",
     "sizeCategory":null,
     "tags":[
       "#monument"
@@ -54,7 +125,47 @@
     "orientation":1,
     "artist":null,
     "dateTaken":"2023:08:06 14:13:30",
-    "appareil":"V2023"
+    "appareil":"V2023",
+    "dColors":[
+      [
+        87,
+        75,
+        64
+      ],
+      [
+        223,
+        205,
+        176
+      ],
+      [
+        115,
+        104,
+        93
+      ],
+      [
+        18,
+        14,
+        14
+      ],
+      [
+        180,
+        157,
+        124
+      ],
+      [
+        67,
+        46,
+        30
+      ]
+    ],
+    "dProportions":[
+      0.222175,
+      0.0811916667,
+      0.2052166667,
+      0.2130833333,
+      0.0893583333,
+      0.188975
+    ]
   },
   "3":{
     "label":"Collegiate church of San Pedro de Cervatos",
@@ -62,10 +173,7 @@
     "entityID":"Q478585",
     "format":"jpg",
     "path":".\/images\/Collegiate church of San Pedro de Cervatos.jpg",
-    "size":[
-      1956,
-      1077
-    ],
+    "size":"(1956, 1077)",
     "sizeCategory":null,
     "tags":[
       "#monument"
@@ -73,7 +181,47 @@
     "orientation":1,
     "artist":null,
     "dateTaken":null,
-    "appareil":null
+    "appareil":null,
+    "dColors":[
+      [
+        123,
+        112,
+        95
+      ],
+      [
+        231,
+        242,
+        252
+      ],
+      [
+        151,
+        142,
+        125
+      ],
+      [
+        88,
+        80,
+        67
+      ],
+      [
+        41,
+        37,
+        25
+      ],
+      [
+        199,
+        210,
+        222
+      ]
+    ],
+    "dProportions":[
+      0.2126073955,
+      0.3363079698,
+      0.1785256562,
+      0.1395547539,
+      0.0743817345,
+      0.0586224902
+    ]
   },
   "4":{
     "label":"Samjeondo Monument",
@@ -81,10 +229,7 @@
     "entityID":"Q497146",
     "format":"JPG",
     "path":".\/images\/Samjeondo Monument.JPG",
-    "size":[
-      2848,
-      4272
-    ],
+    "size":"(2848, 4272)",
     "sizeCategory":null,
     "tags":[
       "#monument"
@@ -92,6 +237,46 @@
     "orientation":0,
     "artist":null,
     "dateTaken":"2010:12:19 17:24:59",
-    "appareil":"Canon EOS 450D"
+    "appareil":"Canon EOS 450D",
+    "dColors":[
+      [
+        143,
+        150,
+        153
+      ],
+      [
+        48,
+        52,
+        51
+      ],
+      [
+        73,
+        86,
+        90
+      ],
+      [
+        212,
+        249,
+        252
+      ],
+      [
+        174,
+        177,
+        178
+      ],
+      [
+        103,
+        116,
+        125
+      ]
+    ],
+    "dProportions":[
+      0.1671940625,
+      0.1928213895,
+      0.2027830061,
+      0.07095597,
+      0.1526543763,
+      0.2135911956
+    ]
   }
 }
