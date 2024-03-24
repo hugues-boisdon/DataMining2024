@@ -1,1182 +1,328 @@
 {
   "0":{
-    "label":"Castillo La Iruela",
-    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/JDCANO%20LA%20IRUELA.jpg",
-    "entityID":"Q1049272",
+    "label":"Castillo de Belmonte",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Belmonte-PM%2065431.jpg",
+    "entityID":"Q917896",
     "format":"jpg",
-    "path":".\/images\/Castillo La Iruela.jpg",
+    "path":".\/images\/Castillo de Belmonte.jpg",
     "size":[
-      4000,
-      3000
+
     ],
     "sizeCategory":null,
     "tags":[
       "#monument"
     ],
-    "orientation":1,
-    "artist":"ANGEL CAMINERO",
-    "dateTaken":"2015:05:18 13:54:21",
-    "appareil":"Canon PowerShot G9",
-    "dColors":[
-      [
-        130,
-        118,
-        100
-      ],
-      [
-        92,
-        86,
-        61
-      ],
-      [
-        83,
-        149,
-        228
-      ],
-      [
-        44,
-        48,
-        24
-      ],
-      [
-        233,
-        211,
-        174
-      ],
-      [
-        181,
-        161,
-        135
-      ]
-    ],
-    "dProportions":[
-      0.166225,
-      0.1965666667,
-      0.3420916667,
-      0.1036083333,
-      0.0897,
-      0.1018083333
+    "date":"1456",
+    "style":[
+      "Q15011985"
     ]
   },
   "1":{
-    "label":"Castillo La Iruela",
-    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Parque%20Natural%20Sierra%20de%20Cazorla%20Castillo%20de%20La%20Iruela.jpg",
-    "entityID":"Q1049272",
-    "format":"jpg",
-    "path":".\/images\/Castillo La Iruela.jpg",
+    "label":"Castle of the Marquises of the V\u00e9lez",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Castillo%20V%C3%A9lez-Blanco.JPG",
+    "entityID":"Q922097",
+    "format":"JPG",
+    "path":".\/images\/Castle of the Marquises of the V\u00e9lez.JPG",
     "size":[
-      4000,
-      3000
+
     ],
     "sizeCategory":null,
     "tags":[
       "#monument"
     ],
-    "orientation":1,
-    "artist":"ANGEL CAMINERO",
-    "dateTaken":"2015:05:18 13:54:21",
-    "appareil":"Canon PowerShot G9",
-    "dColors":[
-      [
-        130,
-        118,
-        100
-      ],
-      [
-        92,
-        86,
-        61
-      ],
-      [
-        83,
-        149,
-        228
-      ],
-      [
-        44,
-        48,
-        24
-      ],
-      [
-        233,
-        211,
-        174
-      ],
-      [
-        181,
-        161,
-        135
-      ]
-    ],
-    "dProportions":[
-      0.166225,
-      0.1965666667,
-      0.3420916667,
-      0.1036083333,
-      0.0897,
-      0.1018083333
+    "date":"1506",
+    "style":[
+      "Q4692"
     ]
   },
   "2":{
-    "label":"Castillo de la Luz",
-    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Castillo%20de%20la%20Luz%20D81%206161%20%2832252019751%29.jpg",
-    "entityID":"Q1049274",
+    "label":"Church of Nuestra Se\u00f1ora de la Asunci\u00f3n",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Iglesia%20y%20campanario%20en%20Valdemoro.jpg",
+    "entityID":"Q934947",
     "format":"jpg",
-    "path":".\/images\/Castillo de la Luz.jpg",
+    "path":".\/images\/Church of Nuestra Se\u00f1ora de la Asunci\u00f3n.jpg",
     "size":[
-      7219,
-      3753
+
     ],
     "sizeCategory":null,
     "tags":[
       "#monument"
     ],
-    "orientation":1,
-    "artist":null,
-    "dateTaken":"2017:01:17 15:46:25",
-    "appareil":"NIKON D810",
-    "dColors":[
-      [
-        126,
-        120,
-        122
-      ],
-      [
-        208,
-        223,
-        238
-      ],
-      [
-        166,
-        184,
-        18
-      ],
-      [
-        44,
-        42,
-        30
-      ],
-      [
-        198,
-        190,
-        178
-      ],
-      [
-        88,
-        84,
-        80
-      ]
-    ],
-    "dProportions":[
-      0.1334994279,
-      0.4080131399,
-      0.0631602259,
-      0.1613553316,
-      0.0712287307,
-      0.162743144
+    "date":"1764",
+    "style":[
+      "Q37853",
+      "Q37853"
     ]
   },
   "3":{
-    "label":"Castillo de Valencia de Don Juan",
-    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Castillo%20de%20los%20Acu%C3%B1a%20en%20Valencia%20de%20Don%20Juan.jpg",
-    "entityID":"Q1049275",
+    "label":"Church of Santo Adriano de Tu\u00f1\u00f3n",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Santo%20adriano%20de%20Tu%C3%B1on.jpg",
+    "entityID":"Q942130",
     "format":"jpg",
-    "path":".\/images\/Castillo de Valencia de Don Juan.jpg",
+    "path":".\/images\/Church of Santo Adriano de Tu\u00f1\u00f3n.jpg",
     "size":[
-      2070,
-      2448
+
     ],
     "sizeCategory":null,
     "tags":[
       "#monument"
     ],
-    "orientation":1,
-    "artist":null,
-    "dateTaken":"2011:06:25 19:59:46",
-    "appareil":"FinePix F480",
-    "dColors":[
-      [
-        137,
-        125,
-        96
-      ],
-      [
-        152,
-        194,
-        220
-      ],
-      [
-        193,
-        176,
-        144
-      ],
-      [
-        36,
-        39,
-        22
-      ],
-      [
-        82,
-        82,
-        54
-      ],
-      [
-        112,
-        158,
-        205
-      ]
-    ],
-    "dProportions":[
-      0.1128981332,
-      0.1224493823,
-      0.0667798082,
-      0.17882938,
-      0.2483916802,
-      0.2706516162
+    "date":"801",
+    "style":[
+      "Q2748473"
     ]
   },
   "4":{
-    "label":"China Millennium Monument",
-    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/China%20Millennium%20Bell.jpg",
-    "entityID":"Q1056441",
+    "label":"Hermitage of San Isidro",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Ermita-san-isidro.jpg",
+    "entityID":"Q920742",
     "format":"jpg",
-    "path":".\/images\/China Millennium Monument.jpg",
+    "path":".\/images\/Hermitage of San Isidro.jpg",
     "size":[
-      4000,
-      2664
+
     ],
     "sizeCategory":null,
     "tags":[
       "#monument"
     ],
-    "orientation":1,
-    "artist":null,
-    "dateTaken":"2017:06:02 16:28:37",
-    "appareil":"Canon PowerShot SX50 HS",
-    "dColors":[
-      [
-        20,
-        27,
-        17
-      ],
-      [
-        137,
-        164,
-        190
-      ],
-      [
-        103,
-        100,
-        95
-      ],
-      [
-        58,
-        61,
-        55
-      ],
-      [
-        191,
-        185,
-        171
-      ],
-      [
-        153,
-        145,
-        127
-      ]
-    ],
-    "dProportions":[
-      0.1477665165,
-      0.4091028529,
-      0.1604635886,
-      0.1187312312,
-      0.0579767267,
-      0.1059590841
+    "date":"1650",
+    "style":[
+      "Q37853"
     ]
   },
   "5":{
-    "label":"China Millennium Monument",
-    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/China%20Millennium%20Monument%20%2820170602141926%29.jpg",
-    "entityID":"Q1056441",
+    "label":"Hermitage of Santa Mar\u00eda la Antigua",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Ermita%20de%20Santa%20Mar%C3%ADa%20de%20la%20Antigua.%20Lateral..jpg",
+    "entityID":"Q926529",
     "format":"jpg",
-    "path":".\/images\/China Millennium Monument.jpg",
+    "path":".\/images\/Hermitage of Santa Mar\u00eda la Antigua.jpg",
     "size":[
-      4000,
-      2664
+
     ],
     "sizeCategory":null,
     "tags":[
       "#monument"
     ],
-    "orientation":1,
-    "artist":null,
-    "dateTaken":"2017:06:02 16:28:37",
-    "appareil":"Canon PowerShot SX50 HS",
-    "dColors":[
-      [
-        20,
-        27,
-        17
-      ],
-      [
-        137,
-        164,
-        190
-      ],
-      [
-        103,
-        100,
-        95
-      ],
-      [
-        58,
-        61,
-        55
-      ],
-      [
-        191,
-        185,
-        171
-      ],
-      [
-        153,
-        145,
-        127
-      ]
-    ],
-    "dProportions":[
-      0.1477665165,
-      0.4091028529,
-      0.1604635886,
-      0.1187312312,
-      0.0579767267,
-      0.1059590841
+    "date":"1200",
+    "style":[
+      "Q46261"
     ]
   },
   "6":{
-    "label":"Palacio de la Condesa de Lebrija",
-    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/SevillaPalacioDeLebrija01.JPG",
-    "entityID":"Q1064212",
-    "format":"JPG",
-    "path":".\/images\/Palacio de la Condesa de Lebrija.JPG",
+    "label":"Hospital de la Santa Caridad",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Fachada%20del%20Hospital%20de%20la%20Caridad.jpg",
+    "entityID":"Q858907",
+    "format":"jpg",
+    "path":".\/images\/Hospital de la Santa Caridad.jpg",
     "size":[
-      1728,
-      2304
+
     ],
     "sizeCategory":null,
     "tags":[
       "#monument"
     ],
-    "orientation":0,
-    "artist":null,
-    "dateTaken":"2007:03:11 13:29:53",
-    "appareil":"DSC-P73",
-    "dColors":[
-      [
-        39,
-        31,
-        27
-      ],
-      [
-        190,
-        171,
-        155
-      ],
-      [
-        254,
-        253,
-        252
-      ],
-      [
-        91,
-        64,
-        54
-      ],
-      [
-        163,
-        140,
-        113
-      ],
-      [
-        130,
-        108,
-        84
-      ]
-    ],
-    "dProportions":[
-      0.2354699352,
-      0.0973024564,
-      0.0690460642,
-      0.1891796855,
-      0.2377555634,
-      0.1712462953
+    "date":"1682",
+    "style":[
+      "Q37853"
     ]
   },
   "7":{
-    "label":"Monument aux Girondins",
-    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Le%20monument%20aux%20Girondins%20%28Bordeaux%29.JPG",
-    "entityID":"Q1064990",
-    "format":"JPG",
-    "path":".\/images\/Monument aux Girondins.JPG",
+    "label":"Jashar Pasha Mosque",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Jashar%20Pasha%20mosque.jpg",
+    "entityID":"Q1254341",
+    "format":"jpg",
+    "path":".\/images\/Jashar Pasha Mosque.jpg",
     "size":[
-      1536,
-      2048
+
     ],
     "sizeCategory":null,
     "tags":[
       "#monument"
     ],
-    "orientation":0,
-    "artist":null,
-    "dateTaken":"2009:07:21 19:16:36",
-    "appareil":"E3200",
-    "dColors":[
-      [
-        54,
-        64,
-        45
-      ],
-      [
-        183,
-        196,
-        207
-      ],
-      [
-        100,
-        105,
-        98
-      ],
-      [
-        141,
-        164,
-        201
-      ],
-      [
-        150,
-        148,
-        137
-      ],
-      [
-        14,
-        19,
-        8
-      ]
-    ],
-    "dProportions":[
-      0.0608112404,
-      0.3373704622,
-      0.0520694259,
-      0.2201983597,
-      0.0942208659,
-      0.2353296459
+    "date":"1834",
+    "style":[
+      "Q527449"
     ]
   },
   "8":{
-    "label":"Chartered Company Monument",
-    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Sandakan%20Sabah%20CharteredCompanyMemorial-02.jpg",
-    "entityID":"Q1067824",
+    "label":"Monastery of Iranzu",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Monasterio%20de%20Iranzu.%20Claustro.jpg",
+    "entityID":"Q837979",
     "format":"jpg",
-    "path":".\/images\/Chartered Company Monument.jpg",
+    "path":".\/images\/Monastery of Iranzu.jpg",
     "size":[
-      1200,
-      1800
+
     ],
     "sizeCategory":null,
     "tags":[
       "#monument"
     ],
-    "orientation":0,
-    "artist":"CEphoto; Uwe Aranas",
-    "dateTaken":"2012:09:09 21:52:32",
-    "appareil":"DSLR-A700",
-    "dColors":[
-      [
-        25,
-        27,
-        17
-      ],
-      [
-        178,
-        176,
-        172
-      ],
-      [
-        94,
-        89,
-        82
-      ],
-      [
-        233,
-        230,
-        227
-      ],
-      [
-        54,
-        55,
-        41
-      ],
-      [
-        142,
-        136,
-        122
-      ]
-    ],
-    "dProportions":[
-      0.2058796296,
-      0.3689814815,
-      0.1146296296,
-      0.0914351852,
-      0.1399074074,
-      0.0791666667
+    "date":"1176",
+    "style":[
+      "Q176483"
     ]
   },
   "9":{
-    "label":"Cho Huan Lai Memorial",
-    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Keningau%20Sabah%20ChoHuanLaiMemorial-06.jpg",
-    "entityID":"Q1075516",
-    "format":"jpg",
-    "path":".\/images\/Cho Huan Lai Memorial.jpg",
+    "label":"Monastery of Sant Jeroni de Cotalba",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/MSJeroni.JPG",
+    "entityID":"Q1321720",
+    "format":"JPG",
+    "path":".\/images\/Monastery of Sant Jeroni de Cotalba.JPG",
     "size":[
-      1200,
-      1800
+
     ],
     "sizeCategory":null,
     "tags":[
       "#monument"
     ],
-    "orientation":0,
-    "artist":"CEphoto; Uwe Aranas",
-    "dateTaken":"2012:09:30 12:28:15",
-    "appareil":"DSLR-A700",
-    "dColors":[
-      [
-        82,
-        83,
-        40
-      ],
-      [
-        234,
-        218,
-        205
-      ],
-      [
-        32,
-        36,
-        13
-      ],
-      [
-        140,
-        129,
-        79
-      ],
-      [
-        192,
-        174,
-        141
-      ],
-      [
-        254,
-        252,
-        251
-      ]
-    ],
-    "dProportions":[
-      0.1615277778,
-      0.221712963,
-      0.2091666667,
-      0.1325,
-      0.106712963,
-      0.1683796296
+    "date":"1388",
+    "style":[
+      "Q21032839"
     ]
   },
   "10":{
-    "label":"Q1077945",
-    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/D%C3%BCren-Mariaweiler%20Denkmal-Nr.%209-003%2C%20Lommessemstra%C3%9Fe%2059%20%28475%29.jpg",
-    "entityID":"Q1077945",
+    "label":"Ourense Cathedral",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Ourense%20cathedral%202021%20-%20west%20fa%C3%A7ade.jpg",
+    "entityID":"Q1361548",
     "format":"jpg",
-    "path":".\/images\/Q1077945.jpg",
+    "path":".\/images\/Ourense Cathedral.jpg",
     "size":[
-      1600,
-      2400
+
     ],
     "sizeCategory":null,
     "tags":[
       "#monument"
     ],
-    "orientation":1,
-    "artist":null,
-    "dateTaken":"2011:04:20 20:08:59",
-    "appareil":null,
-    "dColors":[
-      [
-        116,
-        123,
-        95
-      ],
-      [
-        202,
-        204,
-        184
-      ],
-      [
-        74,
-        82,
-        74
-      ],
-      [
-        153,
-        161,
-        141
-      ],
-      [
-        248,
-        248,
-        248
-      ],
-      [
-        40,
-        48,
-        48
-      ]
-    ],
-    "dProportions":[
-      0.1543229167,
-      0.0871614583,
-      0.19859375,
-      0.140390625,
-      0.2015364583,
-      0.2179947917
+    "date":"1160",
+    "style":[
+      "Q176483"
     ]
   },
   "11":{
-    "label":"Chronos und die Trauernde",
-    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Radebeul%20Denkmal%20Chronos%20Trauernde.jpg",
-    "entityID":"Q1088334",
-    "format":"jpg",
-    "path":".\/images\/Chronos und die Trauernde.jpg",
+    "label":"Royal Palace of El Pardo",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/El%20Palacio%20de%20El%20Pardo.JPG",
+    "entityID":"Q1368571",
+    "format":"JPG",
+    "path":".\/images\/Royal Palace of El Pardo.JPG",
     "size":[
-      532,
-      389
+
     ],
     "sizeCategory":null,
     "tags":[
       "#monument"
     ],
-    "orientation":1,
-    "artist":null,
-    "dateTaken":null,
-    "appareil":null,
-    "dColors":[
-      [
-        246,
-        246,
-        239
-      ],
-      [
-        137,
-        130,
-        102
-      ],
-      [
-        221,
-        209,
-        181
-      ],
-      [
-        44,
-        71,
-        18
-      ],
-      [
-        181,
-        168,
-        140
-      ],
-      [
-        91,
-        97,
-        64
-      ]
-    ],
-    "dProportions":[
-      0.2111111111,
-      0.1657004831,
-      0.1652173913,
-      0.1256038647,
-      0.1946859903,
-      0.1376811594
+    "date":"1547",
+    "style":[
+      "Q236122"
     ]
   },
   "12":{
-    "label":"Kriegsgr\u00e4berst\u00e4tte bei Treuchtlingen",
-    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Treucht%20Kriegs.jpg",
-    "entityID":"Q1090521",
+    "label":"Sanctuary of Nuestra Se\u00f1ora de Est\u00edbaliz",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Estibalizko%20santutegi%20erromanikoa.jpg",
+    "entityID":"Q1139113",
     "format":"jpg",
-    "path":".\/images\/Kriegsgr\u00e4berst\u00e4tte bei Treuchtlingen.jpg",
+    "path":".\/images\/Sanctuary of Nuestra Se\u00f1ora de Est\u00edbaliz.jpg",
     "size":[
-      2736,
-      3648
+
     ],
     "sizeCategory":null,
     "tags":[
       "#monument"
     ],
-    "orientation":0,
-    "artist":null,
-    "dateTaken":"2011:06:12 15:27:17",
-    "appareil":"Canon PowerShot A1000 IS",
-    "dColors":[
-      [
-        99,
-        126,
-        88
-      ],
-      [
-        253,
-        254,
-        254
-      ],
-      [
-        32,
-        52,
-        22
-      ],
-      [
-        140,
-        153,
-        135
-      ],
-      [
-        65,
-        90,
-        47
-      ],
-      [
-        184,
-        204,
-        196
-      ]
-    ],
-    "dProportions":[
-      0.2307784791,
-      0.2563971546,
-      0.148211602,
-      0.1079450957,
-      0.2041178239,
-      0.0525498447
+    "date":null,
+    "style":[
+      "Q46261"
     ]
   },
   "13":{
-    "label":"Monument to the Peaceful Liberation of Tibet",
-    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/024%20-%20Peaceful%20Liberation%20Monument.jpg",
-    "entityID":"Q1090800",
-    "format":"jpg",
-    "path":".\/images\/Monument to the Peaceful Liberation of Tibet.jpg",
+    "label":"Torre del Oro",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Sevilla%20Torre%20del%20oro.JPG",
+    "entityID":"Q943873",
+    "format":"JPG",
+    "path":".\/images\/Torre del Oro.JPG",
     "size":[
-      1600,
-      1063
+
     ],
     "sizeCategory":null,
     "tags":[
       "#monument"
     ],
-    "orientation":1,
-    "artist":null,
-    "dateTaken":"2007:04:22 11:09:45",
-    "appareil":"NIKON D70",
-    "dColors":[
-      [
-        74,
-        70,
-        47
-      ],
-      [
-        158,
-        147,
-        131
-      ],
-      [
-        27,
-        25,
-        12
-      ],
-      [
-        237,
-        236,
-        233
-      ],
-      [
-        133,
-        179,
-        214
-      ],
-      [
-        107,
-        102,
-        94
-      ]
-    ],
-    "dProportions":[
-      0.1242356538,
-      0.0634407338,
-      0.1470484478,
-      0.2014934149,
-      0.2864534337,
-      0.1773283161
+    "date":"1221",
+    "style":[
+      "Q2864591",
+      "Q2864672"
     ]
   },
   "14":{
-    "label":"Brunswick Monument",
-    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Brunswick%20Monument%20%2832688931467%29.jpg",
-    "entityID":"Q1094083",
+    "label":"Victoria Memorial",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/%22The%20Victoria%20Memorial%22%20London%20%22Christmas%20day%22%20%2815925642490%29.jpg",
+    "entityID":"Q1333411",
     "format":"jpg",
-    "path":".\/images\/Brunswick Monument.jpg",
+    "path":".\/images\/Victoria Memorial.jpg",
     "size":[
-      3840,
-      5760
+
     ],
     "sizeCategory":null,
     "tags":[
       "#monument"
     ],
-    "orientation":1,
-    "artist":null,
-    "dateTaken":"2019:04:11 14:28:20",
-    "appareil":"Canon EOS 5D Mark III",
-    "dColors":[
-      [
-        190,
-        220,
-        224
-      ],
-      [
-        126,
-        103,
-        88
-      ],
-      [
-        113,
-        177,
-        218
-      ],
-      [
-        15,
-        9,
-        6
-      ],
-      [
-        80,
-        53,
-        42
-      ],
-      [
-        43,
-        130,
-        190
-      ]
-    ],
-    "dProportions":[
-      0.197007921,
-      0.0922670718,
-      0.1818666811,
-      0.1827166522,
-      0.1878797743,
-      0.1582618996
+    "date":"1901",
+    "style":[
+      "Q1268134"
     ]
   },
   "15":{
-    "label":"monument to Yuri Gagarin",
-    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%20%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D1%83%20%D0%AE.%D0%90.%2C%20%D0%AE%D0%B3%D0%BE-%D0%97%D0%B0%D0%BF%D0%B0%D0%B4%D0%BD%D1%8B%D0%B9%20%D0%BE%D0%BA%D1%80%D1%83%D0%B3%2C%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0.jpg",
-    "entityID":"Q1100798",
+    "label":"Vinar\u00f2s Church of the Assumption",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Esgl%C3%A9sia%20Verge%20de%20l%27Assumpci%C3%B3%20de%20Vinar%C3%B2s.jpg",
+    "entityID":"Q946105",
     "format":"jpg",
-    "path":".\/images\/monument to Yuri Gagarin.jpg",
+    "path":".\/images\/Vinar\u00f2s Church of the Assumption.jpg",
     "size":[
-      3648,
-      2736
+
     ],
     "sizeCategory":null,
     "tags":[
       "#monument"
     ],
-    "orientation":1,
-    "artist":null,
-    "dateTaken":"2015:09:28 14:41:07",
-    "appareil":"DSC-W180",
-    "dColors":[
-      [
-        166,
-        165,
-        166
-      ],
-      [
-        26,
-        18,
-        19
-      ],
-      [
-        185,
-        187,
-        190
-      ],
-      [
-        79,
-        66,
-        61
-      ],
-      [
-        109,
-        103,
-        100
-      ],
-      [
-        55,
-        45,
-        45
-      ]
-    ],
-    "dProportions":[
-      0.1891694219,
-      0.1145276024,
-      0.5003005711,
-      0.0821160204,
-      0.0279130348,
-      0.0859733494
+    "date":"1600",
+    "style":[
+      "Q236122"
     ]
   },
   "16":{
-    "label":"Puerta del Puente",
-    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Puerta%20del%20Puente%2C%20C%C3%B3rdoba%20%28Espa%C3%B1a%29.JPG",
-    "entityID":"Q1105932",
-    "format":"JPG",
-    "path":".\/images\/Puerta del Puente.JPG",
+    "label":"Wallace Monument",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Wfm%20wallace%20monument.jpg",
+    "entityID":"Q931796",
+    "format":"jpg",
+    "path":".\/images\/Wallace Monument.jpg",
     "size":[
-      4000,
-      3000
+
     ],
     "sizeCategory":null,
     "tags":[
       "#monument"
     ],
-    "orientation":1,
-    "artist":null,
-    "dateTaken":"2011:07:04 10:42:22",
-    "appareil":"EX-Z2",
-    "dColors":[
-      [
-        74,
-        71,
-        69
-      ],
-      [
-        214,
-        208,
-        202
-      ],
-      [
-        90,
-        139,
-        216
-      ],
-      [
-        111,
-        110,
-        109
-      ],
-      [
-        169,
-        162,
-        160
-      ],
-      [
-        61,
-        119,
-        194
-      ]
-    ],
-    "dProportions":[
-      0.1408166667,
-      0.1665083333,
-      0.0791916667,
-      0.190375,
-      0.2905916667,
-      0.1325166667
+    "date":"1869",
+    "style":[
+      "Q3476363"
     ]
   },
   "17":{
-    "label":"Iglesia de San Lorenzo M\u00e1rtir",
-    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Iglesia%20de%20San%20Lorenzo%20%28C%C3%B3rdoba%2C%20Espa%C3%B1a%29.jpg",
-    "entityID":"Q1108182",
+    "label":"Yuste",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Claustro%20renacentista%20del%20monasterio%20de%20Yuste%2C%20C%C3%A1ceres.jpg",
+    "entityID":"Q936453",
     "format":"jpg",
-    "path":".\/images\/Iglesia de San Lorenzo M\u00e1rtir.jpg",
+    "path":".\/images\/Yuste.jpg",
     "size":[
-      768,
-      1024
+
     ],
     "sizeCategory":null,
     "tags":[
       "#monument"
     ],
-    "orientation":0,
-    "artist":null,
-    "dateTaken":null,
-    "appareil":null,
-    "dColors":[
-      [
-        159,
-        191,
-        224
-      ],
-      [
-        74,
-        64,
-        54
-      ],
-      [
-        124,
-        109,
-        88
-      ],
-      [
-        209,
-        219,
-        229
-      ],
-      [
-        110,
-        149,
-        196
-      ],
-      [
-        26,
-        24,
-        21
-      ]
-    ],
-    "dProportions":[
-      0.2114431024,
-      0.1364272092,
-      0.1996185633,
-      0.1576605213,
-      0.1060394151,
-      0.1888111888
-    ]
-  },
-  "18":{
-    "label":"church of San Miguel",
-    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Iglesia%20de%20San%20Miguel%2C%20en%20C%C3%B3rdoba%20%28Espa%C3%B1a%29.jpg",
-    "entityID":"Q1108239",
-    "format":"jpg",
-    "path":".\/images\/church of San Miguel.jpg",
-    "size":[
-      1136,
-      852
-    ],
-    "sizeCategory":null,
-    "tags":[
-      "#monument"
-    ],
-    "orientation":1,
-    "artist":null,
-    "dateTaken":"2006:03:11 11:47:41",
-    "appareil":"E4300",
-    "dColors":[
-      [
-        116,
-        94,
-        70
-      ],
-      [
-        204,
-        238,
-        251
-      ],
-      [
-        177,
-        150,
-        124
-      ],
-      [
-        34,
-        28,
-        28
-      ],
-      [
-        146,
-        119,
-        90
-      ],
-      [
-        85,
-        67,
-        50
-      ]
-    ],
-    "dProportions":[
-      0.2767847918,
-      0.187106106,
-      0.1020766608,
-      0.0910217998,
-      0.2138650687,
-      0.1291455729
-    ]
-  },
-  "19":{
-    "label":"Independence Monument, Phnom Penh",
-    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/100%20riel%202001%20obverse.jpg",
-    "entityID":"Q1108673",
-    "format":"jpg",
-    "path":".\/images\/Independence Monument, Phnom Penh.jpg",
-    "size":[
-      300,
-      135
-    ],
-    "sizeCategory":null,
-    "tags":[
-      "#monument"
-    ],
-    "orientation":1,
-    "artist":null,
-    "dateTaken":null,
-    "appareil":null,
-    "dColors":[
-      [
-        230,
-        226,
-        202
-      ],
-      [
-        136,
-        115,
-        122
-      ],
-      [
-        174,
-        158,
-        158
-      ],
-      [
-        247,
-        248,
-        248
-      ],
-      [
-        104,
-        71,
-        72
-      ],
-      [
-        204,
-        188,
-        181
-      ]
-    ],
-    "dProportions":[
-      0.412345679,
-      0.0814814815,
-      0.1086419753,
-      0.1604938272,
-      0.0839506173,
-      0.1530864198
+    "date":"1402",
+    "style":[
+      "Q867769"
     ]
   }
 }
