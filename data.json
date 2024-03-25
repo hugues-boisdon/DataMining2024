@@ -1,10 +1,10 @@
 {
   "0":{
-    "label":"Basilica of Candelaria",
-    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Candelaria%20Basilica.jpg",
-    "entityID":"Q34485",
+    "label":"Castillo de Belmonte",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Belmonte-PM%2065431.jpg",
+    "entityID":"Q917896",
     "format":"jpg",
-    "path":".\/images\/Basilica of Candelaria.jpg",
+    "path":".\/images\/Castillo de Belmonte.jpg",
     "size":[
 
     ],
@@ -12,17 +12,57 @@
     "tags":[
       "#monument"
     ],
-    "date":"1959",
+    "year":1456.0,
     "style":[
-      "Q54111"
+      "Q15011985"
+    ],
+    "dColors":[
+      [
+        122,
+        101,
+        83
+      ],
+      [
+        180,
+        159,
+        132
+      ],
+      [
+        83,
+        110,
+        166
+      ],
+      [
+        208,
+        190,
+        165
+      ],
+      [
+        74,
+        58,
+        49
+      ],
+      [
+        154,
+        132,
+        107
+      ]
+    ],
+    "dProportions":[
+      0.1334332834,
+      0.1916041979,
+      0.3295352324,
+      0.0794602699,
+      0.0820089955,
+      0.183958021
     ]
   },
   "1":{
-    "label":"Cathedral of La Laguna",
-    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/La%20Laguna%202022%20-%20main%20facade.jpg",
-    "entityID":"Q34562",
-    "format":"jpg",
-    "path":".\/images\/Cathedral of La Laguna.jpg",
+    "label":"Castle of the Marquises of the V\u00e9lez",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Castillo%20V%C3%A9lez-Blanco.JPG",
+    "entityID":"Q922097",
+    "format":"JPG",
+    "path":".\/images\/Castle of the Marquises of the V\u00e9lez.JPG",
     "size":[
 
     ],
@@ -30,20 +70,57 @@
     "tags":[
       "#monument"
     ],
-    "date":"1515",
+    "year":1506.0,
     "style":[
-      "Q54111",
-      "Q186363",
-      "Q54111",
-      "Q186363"
+      "Q4692"
+    ],
+    "dColors":[
+      [
+        227,
+        227,
+        235
+      ],
+      [
+        67,
+        66,
+        51
+      ],
+      [
+        112,
+        103,
+        88
+      ],
+      [
+        178,
+        168,
+        153
+      ],
+      [
+        30,
+        30,
+        27
+      ],
+      [
+        150,
+        138,
+        119
+      ]
+    ],
+    "dProportions":[
+      0.2899373372,
+      0.1634318034,
+      0.1241048177,
+      0.1173095703,
+      0.1657307943,
+      0.1394856771
     ]
   },
   "2":{
-    "label":"Church of San Salvador de Priesca",
-    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Priesca1.jpg",
-    "entityID":"Q1130947",
+    "label":"Church of Nuestra Se\u00f1ora de la Asunci\u00f3n",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Iglesia%20y%20campanario%20en%20Valdemoro.jpg",
+    "entityID":"Q934947",
     "format":"jpg",
-    "path":".\/images\/Church of San Salvador de Priesca.jpg",
+    "path":".\/images\/Church of Nuestra Se\u00f1ora de la Asunci\u00f3n.jpg",
     "size":[
 
     ],
@@ -51,17 +128,58 @@
     "tags":[
       "#monument"
     ],
-    "date":"901",
+    "year":1764.0,
     "style":[
-      "Q708807"
+      "Q37853",
+      "Q37853"
+    ],
+    "dColors":[
+      [
+        43,
+        36,
+        48
+      ],
+      [
+        155,
+        198,
+        219
+      ],
+      [
+        145,
+        124,
+        114
+      ],
+      [
+        223,
+        227,
+        231
+      ],
+      [
+        220,
+        172,
+        138
+      ],
+      [
+        92,
+        81,
+        84
+      ]
+    ],
+    "dProportions":[
+      0.1236807388,
+      0.1452836412,
+      0.1259894459,
+      0.2785290237,
+      0.1228562005,
+      0.2036609499
     ]
   },
   "3":{
-    "label":"Hospital de los Reyes Cat\u00f3licos",
-    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Hostal%20dos%20Reis%20Cat%C3%B3licos.%20Praza%20do%20obradoiro.%20Santiago%20de%20Compostela.jpg",
-    "entityID":"Q155443",
+    "label":"Church of Santo Adriano de Tu\u00f1\u00f3n",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Santo%20adriano%20de%20Tu%C3%B1on.jpg",
+    "entityID":"Q942130",
     "format":"jpg",
-    "path":".\/images\/Hospital de los Reyes Cat\u00f3licos.jpg",
+    "path":".\/images\/Church of Santo Adriano de Tu\u00f1\u00f3n.jpg",
     "size":[
 
     ],
@@ -69,17 +187,57 @@
     "tags":[
       "#monument"
     ],
-    "date":"1511",
+    "year":801.0,
     "style":[
-      "Q577852"
+      "Q2748473"
+    ],
+    "dColors":[
+      [
+        68,
+        69,
+        63
+      ],
+      [
+        226,
+        206,
+        187
+      ],
+      [
+        196,
+        163,
+        113
+      ],
+      [
+        106,
+        148,
+        190
+      ],
+      [
+        38,
+        31,
+        29
+      ],
+      [
+        130,
+        106,
+        64
+      ]
+    ],
+    "dProportions":[
+      0.1779315961,
+      0.2284201954,
+      0.1738599349,
+      0.1661237785,
+      0.1229641694,
+      0.1307003257
     ]
   },
   "4":{
-    "label":"Longoria Palace",
-    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Palacio%20Longoria%20%28Madrid%29%2015.jpg",
-    "entityID":"Q1164358",
+    "label":"Church of la Inmaculada Concepci\u00f3n",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Fachadanorteiglesiaromancos.jpg",
+    "entityID":"Q965302",
     "format":"jpg",
-    "path":".\/images\/Longoria Palace.jpg",
+    "path":".\/images\/Church of la Inmaculada Concepci\u00f3n.jpg",
     "size":[
 
     ],
@@ -87,17 +245,57 @@
     "tags":[
       "#monument"
     ],
-    "date":"1904",
+    "year":1401.0,
     "style":[
-      "Q1295040"
+      "Q2602891"
+    ],
+    "dColors":[
+      [
+        41,
+        32,
+        33
+      ],
+      [
+        182,
+        185,
+        205
+      ],
+      [
+        136,
+        126,
+        126
+      ],
+      [
+        241,
+        245,
+        251
+      ],
+      [
+        108,
+        97,
+        93
+      ],
+      [
+        75,
+        64,
+        63
+      ]
+    ],
+    "dProportions":[
+      0.1510416667,
+      0.05078125,
+      0.2265625,
+      0.19140625,
+      0.234375,
+      0.1458333333
     ]
   },
   "5":{
-    "label":"Monastery of San Miguel de Escalada",
-    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/SMdE001%20fulgacian.jpg",
-    "entityID":"Q203741",
+    "label":"Hermitage of San Isidro",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Ermita-san-isidro.jpg",
+    "entityID":"Q920742",
     "format":"jpg",
-    "path":".\/images\/Monastery of San Miguel de Escalada.jpg",
+    "path":".\/images\/Hermitage of San Isidro.jpg",
     "size":[
 
     ],
@@ -105,17 +303,57 @@
     "tags":[
       "#monument"
     ],
-    "date":"901",
+    "year":1650.0,
     "style":[
-      "Q1951304"
+      "Q37853"
+    ],
+    "dColors":[
+      [
+        105,
+        78,
+        90
+      ],
+      [
+        239,
+        230,
+        230
+      ],
+      [
+        48,
+        47,
+        99
+      ],
+      [
+        132,
+        120,
+        124
+      ],
+      [
+        43,
+        38,
+        42
+      ],
+      [
+        181,
+        168,
+        182
+      ]
+    ],
+    "dProportions":[
+      0.2377389859,
+      0.1097256858,
+      0.1471321696,
+      0.2244389027,
+      0.1463009144,
+      0.1346633416
     ]
   },
   "6":{
-    "label":"Monument to the Unknown Hero",
-    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Monument%20au%20soldat%20inconnu%20mont%20Avala.jpg",
-    "entityID":"Q1187994",
+    "label":"Hermitage of Santa Mar\u00eda la Antigua",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Ermita%20de%20Santa%20Mar%C3%ADa%20de%20la%20Antigua.%20Lateral..jpg",
+    "entityID":"Q926529",
     "format":"jpg",
-    "path":".\/images\/Monument to the Unknown Hero.jpg",
+    "path":".\/images\/Hermitage of Santa Mar\u00eda la Antigua.jpg",
     "size":[
 
     ],
@@ -123,17 +361,57 @@
     "tags":[
       "#monument"
     ],
-    "date":"1938",
+    "year":1200.0,
     "style":[
-      "Q54111"
+      "Q46261"
+    ],
+    "dColors":[
+      [
+        68,
+        134,
+        212
+      ],
+      [
+        114,
+        105,
+        91
+      ],
+      [
+        243,
+        241,
+        232
+      ],
+      [
+        50,
+        49,
+        39
+      ],
+      [
+        171,
+        162,
+        149
+      ],
+      [
+        83,
+        157,
+        243
+      ]
+    ],
+    "dProportions":[
+      0.128361625,
+      0.2158751351,
+      0.191048382,
+      0.1879331172,
+      0.1563354314,
+      0.1204463094
     ]
   },
   "7":{
-    "label":"Palacio de la Condesa de Lebrija",
-    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/SevillaPalacioDeLebrija01.JPG",
-    "entityID":"Q1064212",
-    "format":"JPG",
-    "path":".\/images\/Palacio de la Condesa de Lebrija.JPG",
+    "label":"Hospital de la Santa Caridad",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Fachada%20del%20Hospital%20de%20la%20Caridad.jpg",
+    "entityID":"Q858907",
+    "format":"jpg",
+    "path":".\/images\/Hospital de la Santa Caridad.jpg",
     "size":[
 
     ],
@@ -141,17 +419,57 @@
     "tags":[
       "#monument"
     ],
-    "date":"1600",
+    "year":1682.0,
     "style":[
-      "Q4692"
+      "Q37853"
+    ],
+    "dColors":[
+      [
+        187,
+        198,
+        215
+      ],
+      [
+        25,
+        19,
+        15
+      ],
+      [
+        135,
+        137,
+        140
+      ],
+      [
+        149,
+        168,
+        195
+      ],
+      [
+        96,
+        94,
+        93
+      ],
+      [
+        69,
+        50,
+        37
+      ]
+    ],
+    "dProportions":[
+      0.1611948626,
+      0.1366240547,
+      0.1698335044,
+      0.2691828662,
+      0.1196257585,
+      0.1435389536
     ]
   },
   "8":{
-    "label":"Panathenaic Stadium",
-    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/GR-athen-panathinaiko-stadion.jpg",
-    "entityID":"Q208811",
+    "label":"Monastery of Iranzu",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Monasterio%20de%20Iranzu.%20Claustro.jpg",
+    "entityID":"Q837979",
     "format":"jpg",
-    "path":".\/images\/Panathenaic Stadium.jpg",
+    "path":".\/images\/Monastery of Iranzu.jpg",
     "size":[
 
     ],
@@ -159,17 +477,57 @@
     "tags":[
       "#monument"
     ],
-    "date":"-328",
+    "year":1176.0,
     "style":[
-      "Q331273"
+      "Q176483"
+    ],
+    "dColors":[
+      [
+        53,
+        45,
+        40
+      ],
+      [
+        211,
+        192,
+        182
+      ],
+      [
+        173,
+        153,
+        135
+      ],
+      [
+        254,
+        253,
+        253
+      ],
+      [
+        149,
+        130,
+        92
+      ],
+      [
+        106,
+        96,
+        74
+      ]
+    ],
+    "dProportions":[
+      0.1043910605,
+      0.1202036607,
+      0.197612666,
+      0.1814114763,
+      0.2462261989,
+      0.1501549376
     ]
   },
   "9":{
-    "label":"Royal Convent of La Encarnaci\u00f3n",
-    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Real%20Monasterio%20de%20la%20Encarnaci%C3%B3n%20%28Madrid%29%2001.jpg",
-    "entityID":"Q205524",
+    "label":"Plaza de Espa\u00f1a",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Pergola%20-%20Plaza%20de%20Espa%C3%B1a%20-%20Tazacorte%2003.jpg",
+    "entityID":"Q956018",
     "format":"jpg",
-    "path":".\/images\/Royal Convent of La Encarnaci\u00f3n.jpg",
+    "path":".\/images\/Plaza de Espa\u00f1a.jpg",
     "size":[
 
     ],
@@ -177,9 +535,50 @@
     "tags":[
       "#monument"
     ],
-    "date":"1616",
+    "year":1928.0,
     "style":[
-      "Q840829"
+      "Q5705264",
+      "Q5705264"
+    ],
+    "dColors":[
+      [
+        26,
+        16,
+        13
+      ],
+      [
+        84,
+        78,
+        78
+      ],
+      [
+        140,
+        102,
+        45
+      ],
+      [
+        91,
+        134,
+        165
+      ],
+      [
+        59,
+        43,
+        33
+      ],
+      [
+        169,
+        167,
+        163
+      ]
+    ],
+    "dProportions":[
+      0.327366837,
+      0.1318608107,
+      0.0756372209,
+      0.063211938,
+      0.3142380604,
+      0.087685133
     ]
   },
   "10":{
@@ -195,17 +594,57 @@
     "tags":[
       "#monument"
     ],
-    "date":null,
+    "year":null,
     "style":[
       "Q46261"
+    ],
+    "dColors":[
+      [
+        187,
+        183,
+        163
+      ],
+      [
+        30,
+        28,
+        20
+      ],
+      [
+        130,
+        128,
+        117
+      ],
+      [
+        79,
+        75,
+        67
+      ],
+      [
+        129,
+        177,
+        223
+      ],
+      [
+        195,
+        212,
+        225
+      ]
+    ],
+    "dProportions":[
+      0.1664992214,
+      0.2099512734,
+      0.1554729492,
+      0.1691616014,
+      0.1770482745,
+      0.1218666801
     ]
   },
   "11":{
-    "label":"Santa Maria de Lara",
-    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Wisig%20Quintanilla%20de%20las%20Vignas%20b.jpg",
-    "entityID":"Q142565",
+    "label":"Tarragona Cathedral",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Cathedral%20of%20Tarragona%2001.jpg",
+    "entityID":"Q974716",
     "format":"jpg",
-    "path":".\/images\/Santa Maria de Lara.jpg",
+    "path":".\/images\/Tarragona Cathedral.jpg",
     "size":[
 
     ],
@@ -213,17 +652,57 @@
     "tags":[
       "#monument"
     ],
-    "date":"601",
+    "year":1170.0,
     "style":[
-      "Q10412776"
+      "Q46261"
+    ],
+    "dColors":[
+      [
+        45,
+        100,
+        161
+      ],
+      [
+        193,
+        181,
+        162
+      ],
+      [
+        44,
+        37,
+        30
+      ],
+      [
+        220,
+        220,
+        214
+      ],
+      [
+        103,
+        94,
+        85
+      ],
+      [
+        156,
+        145,
+        130
+      ]
+    ],
+    "dProportions":[
+      0.1224246104,
+      0.1544221817,
+      0.1954665048,
+      0.2791337786,
+      0.0941914592,
+      0.1543614653
     ]
   },
   "12":{
-    "label":"Santa Maria de Ovila",
-    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Ruinas%20ovila.jpg",
-    "entityID":"Q1166944",
-    "format":"jpg",
-    "path":".\/images\/Santa Maria de Ovila.jpg",
+    "label":"Torre del Oro",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Sevilla%20Torre%20del%20oro.JPG",
+    "entityID":"Q943873",
+    "format":"JPG",
+    "path":".\/images\/Torre del Oro.JPG",
     "size":[
 
     ],
@@ -231,17 +710,58 @@
     "tags":[
       "#monument"
     ],
-    "date":"1201",
+    "year":1221.0,
     "style":[
-      "Q176483"
+      "Q2864591",
+      "Q2864672"
+    ],
+    "dColors":[
+      [
+        99,
+        120,
+        147
+      ],
+      [
+        53,
+        47,
+        33
+      ],
+      [
+        156,
+        141,
+        114
+      ],
+      [
+        99,
+        89,
+        69
+      ],
+      [
+        147,
+        162,
+        178
+      ],
+      [
+        196,
+        181,
+        152
+      ]
+    ],
+    "dProportions":[
+      0.3334003114,
+      0.1159893505,
+      0.098206661,
+      0.1227708846,
+      0.2017883157,
+      0.1278444768
     ]
   },
   "13":{
-    "label":"Santes Creus",
-    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Monestir%20de%20Santes%20Creus%20%28Aiguam%C3%BArcia%29%20-%2036.jpg",
-    "entityID":"Q159615",
+    "label":"Vinar\u00f2s Church of the Assumption",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Esgl%C3%A9sia%20Verge%20de%20l%27Assumpci%C3%B3%20de%20Vinar%C3%B2s.jpg",
+    "entityID":"Q946105",
     "format":"jpg",
-    "path":".\/images\/Santes Creus.jpg",
+    "path":".\/images\/Vinar\u00f2s Church of the Assumption.jpg",
     "size":[
 
     ],
@@ -249,17 +769,58 @@
     "tags":[
       "#monument"
     ],
-    "date":"1160",
+    "year":1600.0,
     "style":[
-      "Q2864605"
+      "Q236122",
+      "Q21032839"
+    ],
+    "dColors":[
+      [
+        43,
+        42,
+        40
+      ],
+      [
+        134,
+        130,
+        126
+      ],
+      [
+        137,
+        198,
+        252
+      ],
+      [
+        252,
+        247,
+        233
+      ],
+      [
+        94,
+        89,
+        86
+      ],
+      [
+        179,
+        175,
+        167
+      ]
+    ],
+    "dProportions":[
+      0.1445485243,
+      0.2064171576,
+      0.1750943076,
+      0.1144972379,
+      0.2083386315,
+      0.1511041411
     ]
   },
   "14":{
-    "label":"Stonehenge",
-    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Stonehenge%20Total.jpg",
-    "entityID":"Q39671",
+    "label":"Wallace Monument",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Wfm%20wallace%20monument.jpg",
+    "entityID":"Q931796",
     "format":"jpg",
-    "path":".\/images\/Stonehenge.jpg",
+    "path":".\/images\/Wallace Monument.jpg",
     "size":[
 
     ],
@@ -267,18 +828,57 @@
     "tags":[
       "#monument"
     ],
-    "date":"-3000",
+    "year":1869.0,
     "style":[
-      "Q435405",
-      "Q435405"
+      "Q3476363"
+    ],
+    "dColors":[
+      [
+        123,
+        143,
+        158
+      ],
+      [
+        42,
+        51,
+        27
+      ],
+      [
+        209,
+        225,
+        213
+      ],
+      [
+        147,
+        170,
+        181
+      ],
+      [
+        14,
+        17,
+        16
+      ],
+      [
+        75,
+        84,
+        48
+      ]
+    ],
+    "dProportions":[
+      0.2163845702,
+      0.1555487478,
+      0.0666053968,
+      0.3073191902,
+      0.1661177912,
+      0.0880243037
     ]
   },
   "15":{
-    "label":"Tower of Hercules",
-    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/A%20coruna%20torre%20de%20hercules%20sunset%20edit.jpg",
-    "entityID":"Q245151",
+    "label":"Yuste",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Claustro%20renacentista%20del%20monasterio%20de%20Yuste%2C%20C%C3%A1ceres.jpg",
+    "entityID":"Q936453",
     "format":"jpg",
-    "path":".\/images\/Tower of Hercules.jpg",
+    "path":".\/images\/Yuste.jpg",
     "size":[
 
     ],
@@ -286,9 +886,49 @@
     "tags":[
       "#monument"
     ],
-    "date":"100",
+    "year":1402.0,
     "style":[
-      "Q223750"
+      "Q867769"
+    ],
+    "dColors":[
+      [
+        19,
+        19,
+        10
+      ],
+      [
+        222,
+        221,
+        221
+      ],
+      [
+        127,
+        120,
+        70
+      ],
+      [
+        149,
+        192,
+        242
+      ],
+      [
+        72,
+        63,
+        32
+      ],
+      [
+        178,
+        167,
+        139
+      ]
+    ],
+    "dProportions":[
+      0.403527765,
+      0.0848260175,
+      0.1475406251,
+      0.0469348031,
+      0.1976029569,
+      0.1195678324
     ]
   }
 }
