@@ -1,5 +1,271 @@
 {
   "0":{
+    "label":"Adam Mickiewicz Monument, Warsaw",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Pomnik%20Adama%20Mickiewicza%20-%20Warszawa%20%283%29.JPG",
+    "entityID":"Q348386",
+    "format":"JPG",
+    "path":".\/images\/Adam Mickiewicz Monument, Warsaw.JPG",
+    "size":[
+      3456,
+      2592
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument",
+      "#19\u00e8me si\u00e8cle",
+      "#Pologne",
+      "#architecture n\u00e9oclassique",
+      "#architecture n\u00e9oclassique"
+    ],
+    "year":1898.0,
+    "style":[
+      "Q54111",
+      "Q54111"
+    ],
+    "orientation":1,
+    "artist":null,
+    "dateTaken":"2013:08:29 17:38:59",
+    "appareil":"DSC-H50",
+    "dColors":[
+      [
+        40,
+        39,
+        23
+      ],
+      [
+        140,
+        132,
+        103
+      ],
+      [
+        117,
+        159,
+        206
+      ],
+      [
+        93,
+        90,
+        52
+      ],
+      [
+        211,
+        191,
+        163
+      ],
+      [
+        155,
+        189,
+        227
+      ]
+    ],
+    "dProportions":[
+      0.2151931235,
+      0.1207858897,
+      0.1710649699,
+      0.205793704,
+      0.1096338468,
+      0.1775284662
+    ]
+  },
+  "1":{
+    "label":"Antiguo Hospital de Nuestra Se\u00f1ora del Carmen",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Hospital%20de%20Nuestra%20Se%C3%B1ora%20del%20Carmen%2C%202013%20%285%29.JPG",
+    "entityID":"Q5903055",
+    "format":"JPG",
+    "path":".\/images\/Antiguo Hospital de Nuestra Se\u00f1ora del Carmen.JPG",
+    "size":[
+      1024,
+      685
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument",
+      "#18\u00e8me si\u00e8cle",
+      "#Espagne",
+      "#architecture baroque"
+    ],
+    "year":1749.0,
+    "style":[
+      "Q840829"
+    ],
+    "orientation":1,
+    "artist":null,
+    "dateTaken":"2013:01:09 03:21:05",
+    "appareil":"NIKON D3000",
+    "dColors":[
+      [
+        245,
+        244,
+        241
+      ],
+      [
+        20,
+        20,
+        18
+      ],
+      [
+        145,
+        150,
+        154
+      ],
+      [
+        184,
+        186,
+        187
+      ],
+      [
+        65,
+        63,
+        58
+      ],
+      [
+        105,
+        105,
+        102
+      ]
+    ],
+    "dProportions":[
+      0.0873841768,
+      0.1645046329,
+      0.2306486101,
+      0.1067712046,
+      0.1970064148,
+      0.2136849608
+    ]
+  },
+  "2":{
+    "label":"Antiguo Monasterio de San Isidoro del Campo",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Monastery%20of%20San%20Isidoro%20del%20Campo%2C%20Santiponce%2001.jpg",
+    "entityID":"Q778571",
+    "format":"jpg",
+    "path":".\/images\/Antiguo Monasterio de San Isidoro del Campo.jpg",
+    "size":[
+      4608,
+      3456
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument",
+      "#14\u00e8me si\u00e8cle",
+      "#Espagne",
+      "#art mud\u00e9jar"
+    ],
+    "year":1301.0,
+    "style":[
+      "Q15011985"
+    ],
+    "orientation":1,
+    "artist":null,
+    "dateTaken":"2013:05:01 13:30:32",
+    "appareil":"Canon PowerShot A2300",
+    "dColors":[
+      [
+        206,
+        206,
+        201
+      ],
+      [
+        45,
+        50,
+        34
+      ],
+      [
+        109,
+        156,
+        207
+      ],
+      [
+        178,
+        159,
+        117
+      ],
+      [
+        105,
+        104,
+        71
+      ],
+      [
+        161,
+        184,
+        206
+      ]
+    ],
+    "dProportions":[
+      0.1167010983,
+      0.1179192857,
+      0.2079960817,
+      0.2011704646,
+      0.1933903914,
+      0.1628226784
+    ]
+  },
+  "3":{
+    "label":"An\u0131tkabir",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Ankara%20asv2021-10%20img04%20An%C4%B1tkabir.jpg",
+    "entityID":"Q615404",
+    "format":"jpg",
+    "path":".\/images\/An\u0131tkabir.jpg",
+    "size":[
+      7594,
+      3797
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument",
+      "#20\u00e8me si\u00e8cle",
+      "#Turquie",
+      "#Second national architectural movement"
+    ],
+    "year":1953.0,
+    "style":[
+      "Q6101949"
+    ],
+    "orientation":1,
+    "artist":"A.Savin",
+    "dateTaken":"2022:01:24 22:43:14",
+    "appareil":"ILCE-7RM3",
+    "dColors":[
+      [
+        88,
+        97,
+        108
+      ],
+      [
+        212,
+        196,
+        185
+      ],
+      [
+        200,
+        154,
+        109
+      ],
+      [
+        63,
+        45,
+        31
+      ],
+      [
+        112,
+        117,
+        133
+      ],
+      [
+        137,
+        141,
+        156
+      ]
+    ],
+    "dProportions":[
+      0.1147791708,
+      0.2466073627,
+      0.2252197888,
+      0.0754304739,
+      0.2264162722,
+      0.1115469316
+    ]
+  },
+  "4":{
     "label":"Basilica of Candelaria",
     "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Candelaria%20Basilica.jpg",
     "entityID":"Q34485",
@@ -26,46 +292,444 @@
     "appareil":"DMC-G1",
     "dColors":[
       [
-        69,
-        63,
-        54
-      ],
-      [
-        177,
+        176,
         188,
         212
       ],
       [
-        23,
-        19,
-        16
+        68,
+        61,
+        53
       ],
       [
-        112,
-        104,
-        95
-      ],
-      [
-        158,
-        156,
-        159
+        111,
+        103,
+        94
       ],
       [
         209,
         213,
         224
+      ],
+      [
+        22,
+        19,
+        16
+      ],
+      [
+        158,
+        156,
+        159
       ]
     ],
     "dProportions":[
-      0.1223374224,
-      0.1820048247,
-      0.1135862034,
-      0.1474105631,
-      0.1697890469,
-      0.2648719396
+      0.1812092594,
+      0.1229276805,
+      0.1497715958,
+      0.2656931684,
+      0.1097110301,
+      0.1706872658
     ]
   },
-  "1":{
+  "5":{
+    "label":"Biblioteca Museu V\u00edctor Balaguer",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Biblioteca%20Museu%20V%C3%ADctor%20Balaguer%20%28Vilanova%20i%20la%20Geltr%C3%BA%29%20-%203.jpg",
+    "entityID":"Q526170",
+    "format":"jpg",
+    "path":".\/images\/Biblioteca Museu V\u00edctor Balaguer.jpg",
+    "size":[
+      3796,
+      2712
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument",
+      "#19\u00e8me si\u00e8cle",
+      "#Espagne",
+      "#\u00e9clectisme",
+      "#\u00e9clectisme"
+    ],
+    "year":1884.0,
+    "style":[
+      "Q2479493",
+      "Q2479493"
+    ],
+    "orientation":1,
+    "artist":null,
+    "dateTaken":"2011:01:22 22:44:28",
+    "appareil":"EX-S12     ",
+    "dColors":[
+      [
+        31,
+        23,
+        18
+      ],
+      [
+        194,
+        179,
+        179
+      ],
+      [
+        91,
+        58,
+        50
+      ],
+      [
+        240,
+        243,
+        248
+      ],
+      [
+        155,
+        95,
+        74
+      ],
+      [
+        166,
+        134,
+        121
+      ]
+    ],
+    "dProportions":[
+      0.2474161713,
+      0.0718129541,
+      0.1974491977,
+      0.1441892995,
+      0.1947876598,
+      0.1443447177
+    ]
+  },
+  "6":{
+    "label":"Bolzano Victory Monument",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Siegesdenkmal%20in%20Bozen.jpg",
+    "entityID":"Q366647",
+    "format":"jpg",
+    "path":".\/images\/Bolzano Victory Monument.jpg",
+    "size":[
+      2476,
+      1788
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument",
+      "#20\u00e8me si\u00e8cle",
+      "#Italie",
+      "#rationalisme"
+    ],
+    "year":1928.0,
+    "style":[
+      "Q2535546"
+    ],
+    "orientation":1,
+    "artist":null,
+    "dateTaken":null,
+    "appareil":"Nexus 5",
+    "dColors":[
+      [
+        149,
+        206,
+        243
+      ],
+      [
+        46,
+        47,
+        43
+      ],
+      [
+        123,
+        115,
+        109
+      ],
+      [
+        86,
+        79,
+        72
+      ],
+      [
+        238,
+        222,
+        164
+      ],
+      [
+        206,
+        240,
+        252
+      ]
+    ],
+    "dProportions":[
+      0.1543448307,
+      0.4045989474,
+      0.1434347541,
+      0.1733188769,
+      0.0331142283,
+      0.0911883626
+    ]
+  },
+  "7":{
+    "label":"Buenos Aires Cabildo",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Cabildo%20de%20bs%20as.jpg",
+    "entityID":"Q1024829",
+    "format":"jpg",
+    "path":".\/images\/Buenos Aires Cabildo.jpg",
+    "size":[
+      2080,
+      1544
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument",
+      "#18\u00e8me si\u00e8cle",
+      "#Argentine",
+      "#architecture baroque"
+    ],
+    "year":1725.0,
+    "style":[
+      "Q840829"
+    ],
+    "orientation":1,
+    "artist":null,
+    "dateTaken":"2013:09:07 12:38:51",
+    "appareil":null,
+    "dColors":[
+      [
+        51,
+        70,
+        136
+      ],
+      [
+        213,
+        200,
+        200
+      ],
+      [
+        18,
+        12,
+        15
+      ],
+      [
+        100,
+        78,
+        75
+      ],
+      [
+        53,
+        41,
+        49
+      ],
+      [
+        150,
+        137,
+        136
+      ]
+    ],
+    "dProportions":[
+      0.2892950554,
+      0.1917424337,
+      0.1396188816,
+      0.1018495454,
+      0.2090235397,
+      0.0684705443
+    ]
+  },
+  "8":{
+    "label":"Canarias Cabrera Pinto High School",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Tenerife2005%20008.jpg",
+    "entityID":"Q5906799",
+    "format":"jpg",
+    "path":".\/images\/Canarias Cabrera Pinto High School.jpg",
+    "size":[
+      2560,
+      1750
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument",
+      "#19\u00e8me si\u00e8cle",
+      "#Espagne",
+      "#architecture de la Renaissance"
+    ],
+    "year":1846.0,
+    "style":[
+      "Q236122"
+    ],
+    "orientation":1,
+    "artist":null,
+    "dateTaken":null,
+    "appareil":null,
+    "dColors":[
+      [
+        239,
+        245,
+        243
+      ],
+      [
+        118,
+        109,
+        78
+      ],
+      [
+        198,
+        191,
+        173
+      ],
+      [
+        36,
+        35,
+        18
+      ],
+      [
+        152,
+        147,
+        125
+      ],
+      [
+        74,
+        70,
+        43
+      ]
+    ],
+    "dProportions":[
+      0.2686160714,
+      0.1637053571,
+      0.0929464286,
+      0.1771428571,
+      0.1076785714,
+      0.1899107143
+    ]
+  },
+  "9":{
+    "label":"Castillo de Belmonte",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Belmonte-PM%2065431.jpg",
+    "entityID":"Q917896",
+    "format":"jpg",
+    "path":".\/images\/Castillo de Belmonte.jpg",
+    "size":[
+      1000,
+      667
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument",
+      "#15\u00e8me si\u00e8cle",
+      "#Espagne",
+      "#art mud\u00e9jar"
+    ],
+    "year":1456.0,
+    "style":[
+      "Q15011985"
+    ],
+    "orientation":1,
+    "artist":"Photographer: Pol Mayer",
+    "dateTaken":"2011:11:18 18:56:12",
+    "appareil":"Canon EOS 5D Mark II",
+    "dColors":[
+      [
+        122,
+        101,
+        83
+      ],
+      [
+        180,
+        159,
+        132
+      ],
+      [
+        83,
+        110,
+        166
+      ],
+      [
+        208,
+        190,
+        165
+      ],
+      [
+        74,
+        58,
+        49
+      ],
+      [
+        154,
+        132,
+        107
+      ]
+    ],
+    "dProportions":[
+      0.1334332834,
+      0.1916041979,
+      0.3295352324,
+      0.0794602699,
+      0.0820089955,
+      0.183958021
+    ]
+  },
+  "10":{
+    "label":"Castle of the Marquises of the V\u00e9lez",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Castillo%20V%C3%A9lez-Blanco.JPG",
+    "entityID":"Q922097",
+    "format":"JPG",
+    "path":".\/images\/Castle of the Marquises of the V\u00e9lez.JPG",
+    "size":[
+      2560,
+      1920
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument",
+      "#16\u00e8me si\u00e8cle",
+      "#Espagne",
+      "#Renaissance"
+    ],
+    "year":1506.0,
+    "style":[
+      "Q4692"
+    ],
+    "orientation":0,
+    "artist":null,
+    "dateTaken":"2007:02:17 11:39:03",
+    "appareil":"5MP-9A3 ",
+    "dColors":[
+      [
+        227,
+        227,
+        235
+      ],
+      [
+        67,
+        66,
+        51
+      ],
+      [
+        112,
+        103,
+        88
+      ],
+      [
+        178,
+        168,
+        153
+      ],
+      [
+        30,
+        30,
+        27
+      ],
+      [
+        150,
+        138,
+        119
+      ]
+    ],
+    "dProportions":[
+      0.2899373372,
+      0.1634318034,
+      0.1241048177,
+      0.1173095703,
+      0.1657307943,
+      0.1394856771
+    ]
+  },
+  "11":{
     "label":"Cathedral of La Laguna",
     "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/La%20Laguna%202022%20-%20main%20facade.jpg",
     "entityID":"Q34562",
@@ -98,46 +762,182 @@
     "appareil":"ILCE-6500",
     "dColors":[
       [
-        101,
-        98,
-        96
+        24,
+        24,
+        22
       ],
       [
-        225,
+        226,
         228,
         235
       ],
       [
-        138,
-        135,
-        134
-      ],
-      [
-        22,
-        23,
-        21
-      ],
-      [
-        62,
-        59,
-        53
+        107,
+        103,
+        101
       ],
       [
         166,
-        188,
-        218
+        189,
+        219
+      ],
+      [
+        66,
+        64,
+        57
+      ],
+      [
+        141,
+        139,
+        138
       ]
     ],
     "dProportions":[
-      0.1611335308,
-      0.2128600882,
-      0.1501710906,
-      0.1867870906,
-      0.1577780279,
-      0.131270172
+      0.2002584477,
+      0.2124714913,
+      0.1652708535,
+      0.1298283543,
+      0.1631381971,
+      0.129032656
     ]
   },
-  "2":{
+  "12":{
+    "label":"Church of Nuestra Se\u00f1ora de la Asunci\u00f3n",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Iglesia%20y%20campanario%20en%20Valdemoro.jpg",
+    "entityID":"Q934947",
+    "format":"jpg",
+    "path":".\/images\/Church of Nuestra Se\u00f1ora de la Asunci\u00f3n.jpg",
+    "size":[
+      620,
+      978
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument",
+      "#18\u00e8me si\u00e8cle",
+      "#Espagne",
+      "#baroque",
+      "#baroque"
+    ],
+    "year":1764.0,
+    "style":[
+      "Q37853",
+      "Q37853"
+    ],
+    "orientation":0,
+    "artist":null,
+    "dateTaken":null,
+    "appareil":null,
+    "dColors":[
+      [
+        43,
+        36,
+        48
+      ],
+      [
+        155,
+        198,
+        219
+      ],
+      [
+        145,
+        124,
+        114
+      ],
+      [
+        223,
+        227,
+        231
+      ],
+      [
+        220,
+        172,
+        138
+      ],
+      [
+        92,
+        81,
+        84
+      ]
+    ],
+    "dProportions":[
+      0.1236807388,
+      0.1452836412,
+      0.1259894459,
+      0.2785290237,
+      0.1228562005,
+      0.2036609499
+    ]
+  },
+  "13":{
+    "label":"Church of San Jos\u00e9",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Fachada%20Iglesia%20de%20San%20Jos%C3%A9%20Bre%C3%B1a%20Baja-2.jpg",
+    "entityID":"Q5910336",
+    "format":"jpg",
+    "path":".\/images\/Church of San Jos\u00e9.jpg",
+    "size":[
+      2112,
+      2816
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument",
+      "#16\u00e8me si\u00e8cle",
+      "#Espagne",
+      "#baroque",
+      "#baroque"
+    ],
+    "year":1548.0,
+    "style":[
+      "Q37853",
+      "Q37853"
+    ],
+    "orientation":0,
+    "artist":null,
+    "dateTaken":"2011:09:27 16:05:21",
+    "appareil":"DMC-FZ7",
+    "dColors":[
+      [
+        95,
+        80,
+        60
+      ],
+      [
+        215,
+        219,
+        219
+      ],
+      [
+        30,
+        25,
+        19
+      ],
+      [
+        64,
+        98,
+        143
+      ],
+      [
+        135,
+        144,
+        149
+      ],
+      [
+        242,
+        244,
+        242
+      ]
+    ],
+    "dProportions":[
+      0.1042808622,
+      0.1146215153,
+      0.1257019874,
+      0.1883512123,
+      0.1605071124,
+      0.3065373104
+    ]
+  },
+  "14":{
     "label":"Church of San Salvador de Priesca",
     "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Priesca1.jpg",
     "entityID":"Q1130947",
@@ -164,9 +964,19 @@
     "appareil":"Canon EOS 10D",
     "dColors":[
       [
-        76,
-        78,
-        47
+        217,
+        224,
+        232
+      ],
+      [
+        75,
+        77,
+        46
+      ],
+      [
+        193,
+        171,
+        148
       ],
       [
         149,
@@ -174,36 +984,954 @@
         210
       ],
       [
-        33,
-        37,
+        120,
+        107,
+        75
+      ],
+      [
+        32,
+        36,
         17
-      ],
-      [
-        194,
-        171,
-        148
-      ],
-      [
-        121,
-        108,
-        76
-      ],
-      [
-        217,
-        224,
-        232
       ]
     ],
     "dProportions":[
-      0.1546382481,
-      0.1289176672,
-      0.102162867,
-      0.1458249022,
-      0.2294167903,
-      0.2390395252
+      0.2393542875,
+      0.1534691308,
+      0.1459148343,
+      0.128737803,
+      0.2325194478,
+      0.1000044966
     ]
   },
-  "3":{
+  "15":{
+    "label":"Church of Santo Adriano de Tu\u00f1\u00f3n",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Santo%20adriano%20de%20Tu%C3%B1on.jpg",
+    "entityID":"Q942130",
+    "format":"jpg",
+    "path":".\/images\/Church of Santo Adriano de Tu\u00f1\u00f3n.jpg",
+    "size":[
+      800,
+      614
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument",
+      "#9\u00e8me si\u00e8cle",
+      "#Espagne",
+      "#art asturien"
+    ],
+    "year":801.0,
+    "style":[
+      "Q2748473"
+    ],
+    "orientation":1,
+    "artist":null,
+    "dateTaken":null,
+    "appareil":"HP psc1310",
+    "dColors":[
+      [
+        68,
+        69,
+        63
+      ],
+      [
+        226,
+        206,
+        187
+      ],
+      [
+        196,
+        163,
+        113
+      ],
+      [
+        106,
+        148,
+        190
+      ],
+      [
+        38,
+        31,
+        29
+      ],
+      [
+        130,
+        106,
+        64
+      ]
+    ],
+    "dProportions":[
+      0.1779315961,
+      0.2284201954,
+      0.1738599349,
+      0.1661237785,
+      0.1229641694,
+      0.1307003257
+    ]
+  },
+  "16":{
+    "label":"Church of former Augustinian monastery",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Convento%20de%20los%20agustinos%20de%20huecija.jpg",
+    "entityID":"Q5786052",
+    "format":"jpg",
+    "path":".\/images\/Church of former Augustinian monastery.jpg",
+    "size":[
+      1000,
+      725
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument",
+      "#16\u00e8me si\u00e8cle",
+      "#Espagne",
+      "#architecture baroque",
+      "#architecture baroque"
+    ],
+    "year":1511.0,
+    "style":[
+      "Q840829",
+      "Q840829"
+    ],
+    "orientation":1,
+    "artist":null,
+    "dateTaken":null,
+    "appareil":null,
+    "dColors":[
+      [
+        91,
+        97,
+        72
+      ],
+      [
+        212,
+        201,
+        178
+      ],
+      [
+        187,
+        167,
+        131
+      ],
+      [
+        60,
+        71,
+        38
+      ],
+      [
+        229,
+        231,
+        226
+      ],
+      [
+        138,
+        129,
+        107
+      ]
+    ],
+    "dProportions":[
+      0.2048275862,
+      0.0842758621,
+      0.2474482759,
+      0.228137931,
+      0.0805517241,
+      0.1547586207
+    ]
+  },
+  "17":{
+    "label":"Church of la Inmaculada Concepci\u00f3n",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Fachadanorteiglesiaromancos.jpg",
+    "entityID":"Q965302",
+    "format":"jpg",
+    "path":".\/images\/Church of la Inmaculada Concepci\u00f3n.jpg",
+    "size":[
+      320,
+      240
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument",
+      "#15\u00e8me si\u00e8cle",
+      "#Espagne",
+      "#Gothique isab\u00e9lin"
+    ],
+    "year":1401.0,
+    "style":[
+      "Q2602891"
+    ],
+    "orientation":1,
+    "artist":null,
+    "dateTaken":"2009:12:08 19:31:43",
+    "appareil":"KODAK CX7430 ZOOM DIGITAL CAMERA",
+    "dColors":[
+      [
+        41,
+        32,
+        33
+      ],
+      [
+        182,
+        185,
+        205
+      ],
+      [
+        136,
+        126,
+        126
+      ],
+      [
+        241,
+        245,
+        251
+      ],
+      [
+        108,
+        97,
+        93
+      ],
+      [
+        75,
+        64,
+        63
+      ]
+    ],
+    "dProportions":[
+      0.1510416667,
+      0.05078125,
+      0.2265625,
+      0.19140625,
+      0.234375,
+      0.1458333333
+    ]
+  },
+  "18":{
+    "label":"Colegio de San Gregorio",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Valladolid%20San%20Gregorio%2020080815.jpg",
+    "entityID":"Q570586",
+    "format":"jpg",
+    "path":".\/images\/Colegio de San Gregorio.jpg",
+    "size":[
+      1228,
+      1713
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument",
+      "#15\u00e8me si\u00e8cle",
+      "#Espagne",
+      "#Gothique isab\u00e9lin"
+    ],
+    "year":1488.0,
+    "style":[
+      "Q2602891"
+    ],
+    "orientation":0,
+    "artist":null,
+    "dateTaken":null,
+    "appareil":null,
+    "dColors":[
+      [
+        40,
+        65,
+        96
+      ],
+      [
+        157,
+        148,
+        136
+      ],
+      [
+        106,
+        92,
+        78
+      ],
+      [
+        186,
+        176,
+        164
+      ],
+      [
+        209,
+        200,
+        190
+      ],
+      [
+        66,
+        55,
+        46
+      ]
+    ],
+    "dProportions":[
+      0.2511884389,
+      0.1760791025,
+      0.1289693858,
+      0.2319357292,
+      0.1159916334,
+      0.0958357102
+    ]
+  },
+  "19":{
+    "label":"Colegio de Santo Domingo",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Santo%20Domingo%2C%20Orihuela.JPG",
+    "entityID":"Q5785905",
+    "format":"JPG",
+    "path":".\/images\/Colegio de Santo Domingo.JPG",
+    "size":[
+      3240,
+      4320
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument",
+      "#16\u00e8me si\u00e8cle",
+      "#Espagne",
+      "#Renaissance"
+    ],
+    "year":1550.0,
+    "style":[
+      "Q4692"
+    ],
+    "orientation":0,
+    "artist":null,
+    "dateTaken":"2010:09:14 23:10:04",
+    "appareil":"DSC-W320",
+    "dColors":[
+      [
+        129,
+        124,
+        112
+      ],
+      [
+        181,
+        215,
+        249
+      ],
+      [
+        93,
+        84,
+        66
+      ],
+      [
+        46,
+        40,
+        34
+      ],
+      [
+        165,
+        156,
+        140
+      ],
+      [
+        80,
+        94,
+        104
+      ]
+    ],
+    "dProportions":[
+      0.2186785551,
+      0.0842263946,
+      0.1527563443,
+      0.1162051326,
+      0.2592592593,
+      0.1688743141
+    ]
+  },
+  "20":{
+    "label":"Convent of the Franciscanos, Zarautz",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/RI-51-0001599.jpg",
+    "entityID":"Q5785590",
+    "format":"jpg",
+    "path":".\/images\/Convent of the Franciscanos, Zarautz.jpg",
+    "size":[
+      4272,
+      2848
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument",
+      "#17\u00e8me si\u00e8cle",
+      "#Espagne",
+      "#architecture baroque"
+    ],
+    "year":1610.0,
+    "style":[
+      "Q840829"
+    ],
+    "orientation":1,
+    "artist":"",
+    "dateTaken":"2011:09:26 16:15:05",
+    "appareil":"Canon EOS 1100D",
+    "dColors":[
+      [
+        154,
+        199,
+        246
+      ],
+      [
+        83,
+        81,
+        72
+      ],
+      [
+        165,
+        151,
+        130
+      ],
+      [
+        116,
+        166,
+        226
+      ],
+      [
+        37,
+        38,
+        36
+      ],
+      [
+        209,
+        202,
+        188
+      ]
+    ],
+    "dProportions":[
+      0.1920570081,
+      0.1466543927,
+      0.1519968438,
+      0.2251637667,
+      0.1923857743,
+      0.0917422144
+    ]
+  },
+  "21":{
+    "label":"C\u00e1rcel de la Chanciller\u00eda de Valladolid",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Fachada%20de%20la%20Biblioteca%20Reina%20Sof%C3%ADa.jpg",
+    "entityID":"Q5795931",
+    "format":"jpg",
+    "path":".\/images\/C\u00e1rcel de la Chanciller\u00eda de Valladolid.jpg",
+    "size":[
+      2048,
+      1361
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument",
+      "#17\u00e8me si\u00e8cle",
+      "#Espagne",
+      "#Herrerian"
+    ],
+    "year":1675.0,
+    "style":[
+      "Q1614189"
+    ],
+    "orientation":1,
+    "artist":"Picasa",
+    "dateTaken":null,
+    "appareil":null,
+    "dColors":[
+      [
+        143,
+        183,
+        222
+      ],
+      [
+        99,
+        81,
+        71
+      ],
+      [
+        36,
+        29,
+        24
+      ],
+      [
+        202,
+        214,
+        228
+      ],
+      [
+        168,
+        138,
+        109
+      ],
+      [
+        83,
+        149,
+        208
+      ]
+    ],
+    "dProportions":[
+      0.0849178446,
+      0.2782880103,
+      0.3291597905,
+      0.1430723972,
+      0.1129009112,
+      0.0516610461
+    ]
+  },
+  "22":{
+    "label":"Escuelas Graduadas de Cartagena",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Escuelas%20Graduadas%2001.jpg",
+    "entityID":"Q5839385",
+    "format":"jpg",
+    "path":".\/images\/Escuelas Graduadas de Cartagena.jpg",
+    "size":[
+      2048,
+      1536
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument",
+      "#19\u00e8me si\u00e8cle",
+      "#Espagne",
+      "#architecture Art nouveau"
+    ],
+    "year":1900.0,
+    "style":[
+      "Q1295040"
+    ],
+    "orientation":1,
+    "artist":null,
+    "dateTaken":"0000:00:00 00:00:00",
+    "appareil":"E3100",
+    "dColors":[
+      [
+        55,
+        51,
+        55
+      ],
+      [
+        211,
+        194,
+        195
+      ],
+      [
+        91,
+        85,
+        91
+      ],
+      [
+        233,
+        252,
+        252
+      ],
+      [
+        159,
+        149,
+        157
+      ],
+      [
+        130,
+        118,
+        121
+      ]
+    ],
+    "dProportions":[
+      0.2081505499,
+      0.0472375866,
+      0.2492211838,
+      0.1096700362,
+      0.1611672706,
+      0.2245533728
+    ]
+  },
+  "23":{
+    "label":"Hercules monument, Kassel",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/00%203172%20Kaskaden%2C%20Oktogon%20und%20Herkules%20im%20Bergpark%20Kassel.jpg",
+    "entityID":"Q321252",
+    "format":"jpg",
+    "path":".\/images\/Hercules monument, Kassel.jpg",
+    "size":[
+      2133,
+      3200
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument",
+      "#18\u00e8me si\u00e8cle",
+      "#Allemagne",
+      "#baroque",
+      "#baroque"
+    ],
+    "year":1717.0,
+    "style":[
+      "Q37853",
+      "Q37853"
+    ],
+    "orientation":1,
+    "artist":null,
+    "dateTaken":"2021:06:26 14:37:15",
+    "appareil":"Canon EOS 5D",
+    "dColors":[
+      [
+        131,
+        123,
+        89
+      ],
+      [
+        167,
+        154,
+        125
+      ],
+      [
+        44,
+        47,
+        21
+      ],
+      [
+        95,
+        90,
+        58
+      ],
+      [
+        226,
+        226,
+        225
+      ],
+      [
+        178,
+        186,
+        195
+      ]
+    ],
+    "dProportions":[
+      0.2526078293,
+      0.1454084623,
+      0.1232419128,
+      0.1735671589,
+      0.0654740975,
+      0.2397005391
+    ]
+  },
+  "24":{
+    "label":"Hermitage of San Isidro",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Ermita-san-isidro.jpg",
+    "entityID":"Q920742",
+    "format":"jpg",
+    "path":".\/images\/Hermitage of San Isidro.jpg",
+    "size":[
+      283,
+      425
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument",
+      "#17\u00e8me si\u00e8cle",
+      "#Espagne",
+      "#baroque"
+    ],
+    "year":1650.0,
+    "style":[
+      "Q37853"
+    ],
+    "orientation":0,
+    "artist":null,
+    "dateTaken":"2006:06:23 14:00:11",
+    "appareil":null,
+    "dColors":[
+      [
+        105,
+        78,
+        90
+      ],
+      [
+        239,
+        230,
+        230
+      ],
+      [
+        48,
+        47,
+        99
+      ],
+      [
+        132,
+        120,
+        124
+      ],
+      [
+        43,
+        38,
+        42
+      ],
+      [
+        181,
+        168,
+        182
+      ]
+    ],
+    "dProportions":[
+      0.2377389859,
+      0.1097256858,
+      0.1471321696,
+      0.2244389027,
+      0.1463009144,
+      0.1346633416
+    ]
+  },
+  "25":{
+    "label":"Hermitage of Santa Mar\u00eda de La Piscina",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Ermita%20de%20Santa%20Mar%C3%ADa%20de%20La%20Piscina%20-%20Sureste.JPG",
+    "entityID":"Q613742",
+    "format":"JPG",
+    "path":".\/images\/Hermitage of Santa Mar\u00eda de La Piscina.JPG",
+    "size":[
+      2611,
+      1958
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument",
+      "#12\u00e8me si\u00e8cle",
+      "#Espagne",
+      "#architecture romane"
+    ],
+    "year":1136.0,
+    "style":[
+      "Q46261"
+    ],
+    "orientation":1,
+    "artist":null,
+    "dateTaken":null,
+    "appareil":null,
+    "dColors":[
+      [
+        98,
+        78,
+        47
+      ],
+      [
+        239,
+        242,
+        245
+      ],
+      [
+        160,
+        131,
+        88
+      ],
+      [
+        182,
+        156,
+        112
+      ],
+      [
+        131,
+        106,
+        71
+      ],
+      [
+        56,
+        42,
+        22
+      ]
+    ],
+    "dProportions":[
+      0.1444331429,
+      0.2218723105,
+      0.252542837,
+      0.1336749863,
+      0.1771770597,
+      0.0702996636
+    ]
+  },
+  "26":{
+    "label":"Hermitage of Santa Mar\u00eda la Antigua",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Ermita%20de%20Santa%20Mar%C3%ADa%20de%20la%20Antigua.%20Lateral..jpg",
+    "entityID":"Q926529",
+    "format":"jpg",
+    "path":".\/images\/Hermitage of Santa Mar\u00eda la Antigua.jpg",
+    "size":[
+      2048,
+      1536
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument",
+      "#12\u00e8me si\u00e8cle",
+      "#Espagne",
+      "#architecture romane"
+    ],
+    "year":1200.0,
+    "style":[
+      "Q46261"
+    ],
+    "orientation":1,
+    "artist":null,
+    "dateTaken":null,
+    "appareil":"7230",
+    "dColors":[
+      [
+        68,
+        134,
+        212
+      ],
+      [
+        114,
+        105,
+        91
+      ],
+      [
+        243,
+        241,
+        232
+      ],
+      [
+        50,
+        49,
+        39
+      ],
+      [
+        171,
+        162,
+        149
+      ],
+      [
+        83,
+        157,
+        243
+      ]
+    ],
+    "dProportions":[
+      0.128361625,
+      0.2158751351,
+      0.191048382,
+      0.1879331172,
+      0.1563354314,
+      0.1204463094
+    ]
+  },
+  "27":{
+    "label":"Hospital Real",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Hospital%20Real%20de%20Granada.%20Portada.jpg",
+    "entityID":"Q5902841",
+    "format":"jpg",
+    "path":".\/images\/Hospital Real.jpg",
+    "size":[
+      2460,
+      2460
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument",
+      "#16\u00e8me si\u00e8cle",
+      "#Espagne",
+      "#architecture gothique"
+    ],
+    "year":1526.0,
+    "style":[
+      "Q176483"
+    ],
+    "orientation":1,
+    "artist":null,
+    "dateTaken":null,
+    "appareil":null,
+    "dColors":[
+      [
+        65,
+        59,
+        36
+      ],
+      [
+        146,
+        129,
+        100
+      ],
+      [
+        209,
+        205,
+        193
+      ],
+      [
+        106,
+        92,
+        65
+      ],
+      [
+        26,
+        23,
+        13
+      ],
+      [
+        190,
+        170,
+        132
+      ]
+    ],
+    "dProportions":[
+      0.2363341926,
+      0.1610648424,
+      0.1094586556,
+      0.1902141582,
+      0.1657908652,
+      0.137137286
+    ]
+  },
+  "28":{
+    "label":"Hospital de la Santa Caridad",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Fachada%20del%20Hospital%20de%20la%20Caridad.jpg",
+    "entityID":"Q858907",
+    "format":"jpg",
+    "path":".\/images\/Hospital de la Santa Caridad.jpg",
+    "size":[
+      2592,
+      3872
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument",
+      "#17\u00e8me si\u00e8cle",
+      "#Espagne",
+      "#baroque"
+    ],
+    "year":1682.0,
+    "style":[
+      "Q37853"
+    ],
+    "orientation":1,
+    "artist":null,
+    "dateTaken":"2008:11:05 23:13:27",
+    "appareil":"NIKON D80",
+    "dColors":[
+      [
+        187,
+        198,
+        215
+      ],
+      [
+        25,
+        19,
+        15
+      ],
+      [
+        135,
+        137,
+        140
+      ],
+      [
+        149,
+        168,
+        195
+      ],
+      [
+        96,
+        94,
+        93
+      ],
+      [
+        69,
+        50,
+        37
+      ]
+    ],
+    "dProportions":[
+      0.1611948626,
+      0.1366240547,
+      0.1698335044,
+      0.2691828662,
+      0.1196257585,
+      0.1435389536
+    ]
+  },
+  "29":{
     "label":"Hospital de los Reyes Cat\u00f3licos",
     "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Hostal%20dos%20Reis%20Cat%C3%B3licos.%20Praza%20do%20obradoiro.%20Santiago%20de%20Compostela.jpg",
     "entityID":"Q155443",
@@ -230,46 +1958,248 @@
     "appareil":"DMC-FZ8",
     "dColors":[
       [
-        110,
-        91,
-        65
+        36,
+        27,
+        16
       ],
       [
-        220,
-        222,
-        209
+        203,
+        210,
+        206
       ],
       [
-        43,
-        33,
-        21
+        142,
+        122,
+        88
       ],
       [
-        124,
-        135,
-        144
+        134,
+        146,
+        156
       ],
       [
-        190,
-        159,
-        104
+        90,
+        74,
+        53
       ],
       [
-        164,
-        173,
-        177
+        208,
+        176,
+        118
       ]
     ],
     "dProportions":[
-      0.1764930276,
-      0.1077155654,
-      0.1668856582,
-      0.2404526766,
-      0.1381765778,
-      0.1702764944
+      0.1322567428,
+      0.1584368245,
+      0.1486599133,
+      0.3160259399,
+      0.1443507255,
+      0.1002698541
     ]
   },
-  "4":{
+  "30":{
+    "label":"Iglesia de Nuestra Se\u00f1ora del Manzano",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Castrojeriz%20%28BURGOS%29%20%E2%80%93%20Iglesia%20de%20Nuestra%20Se%C3%B1ora%20del%20Manzano.%202.JPG",
+    "entityID":"Q5909702",
+    "format":"JPG",
+    "path":".\/images\/Iglesia de Nuestra Se\u00f1ora del Manzano.JPG",
+    "size":[
+      2560,
+      1920
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument",
+      "#13\u00e8me si\u00e8cle",
+      "#Espagne",
+      "#architecture gothique"
+    ],
+    "year":1214.0,
+    "style":[
+      "Q176483"
+    ],
+    "orientation":1,
+    "artist":null,
+    "dateTaken":"2011:07:29 16:04:33",
+    "appareil":"DMC-TZ8",
+    "dColors":[
+      [
+        76,
+        122,
+        176
+      ],
+      [
+        56,
+        51,
+        41
+      ],
+      [
+        181,
+        181,
+        171
+      ],
+      [
+        152,
+        146,
+        129
+      ],
+      [
+        112,
+        105,
+        89
+      ],
+      [
+        106,
+        152,
+        198
+      ]
+    ],
+    "dProportions":[
+      0.2563476562,
+      0.1152750651,
+      0.2241617839,
+      0.1849568685,
+      0.1103108724,
+      0.1089477539
+    ]
+  },
+  "31":{
+    "label":"Iglesia de Omnium Sanctorum",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Iglesia%20de%20Omnium%20Sanctorum%20%28Sevilla%29.%20Fachada.jpg",
+    "entityID":"Q5909779",
+    "format":"jpg",
+    "path":".\/images\/Iglesia de Omnium Sanctorum.jpg",
+    "size":[
+      2376,
+      2327
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument",
+      "#13\u00e8me si\u00e8cle",
+      "#Espagne",
+      "#architecture gothique",
+      "#architecture mud\u00e9jare"
+    ],
+    "year":1249.0,
+    "style":[
+      "Q176483",
+      "Q2860353"
+    ],
+    "orientation":1,
+    "artist":null,
+    "dateTaken":null,
+    "appareil":null,
+    "dColors":[
+      [
+        249,
+        252,
+        254
+      ],
+      [
+        77,
+        69,
+        63
+      ],
+      [
+        156,
+        155,
+        157
+      ],
+      [
+        119,
+        112,
+        106
+      ],
+      [
+        32,
+        30,
+        28
+      ],
+      [
+        183,
+        185,
+        195
+      ]
+    ],
+    "dProportions":[
+      0.116440586,
+      0.1534816422,
+      0.2235485621,
+      0.1400795804,
+      0.1099113764,
+      0.2565382528
+    ]
+  },
+  "32":{
+    "label":"Iglesia de la Concepci\u00f3n",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Iglesia%20de%20la%20Concepci%C3%B3n%20%28Santa%20Cruz%20de%20Tenerife%29.%20Canarias.%20Espa%C3%B1a.%20Spain.jpg",
+    "entityID":"Q599116",
+    "format":"jpg",
+    "path":".\/images\/Iglesia de la Concepci\u00f3n.jpg",
+    "size":[
+      6120,
+      5168
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument",
+      "#15\u00e8me si\u00e8cle",
+      "#Espagne",
+      "#architecture coloniale",
+      "#baroque"
+    ],
+    "year":1500.0,
+    "style":[
+      "Q508475",
+      "Q37853"
+    ],
+    "orientation":1,
+    "artist":null,
+    "dateTaken":null,
+    "appareil":"22101316UG",
+    "dColors":[
+      [
+        96,
+        90,
+        89
+      ],
+      [
+        246,
+        251,
+        253
+      ],
+      [
+        118,
+        157,
+        204
+      ],
+      [
+        33,
+        27,
+        25
+      ],
+      [
+        142,
+        139,
+        140
+      ],
+      [
+        91,
+        132,
+        190
+      ]
+    ],
+    "dProportions":[
+      0.1700159984,
+      0.1055924776,
+      0.1916833712,
+      0.1235827521,
+      0.1015170007,
+      0.3076084001
+    ]
+  },
+  "33":{
     "label":"Jashar Pasha Mosque",
     "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Jashar%20Pasha%20mosque.jpg",
     "entityID":"Q1254341",
@@ -296,9 +2226,9 @@
     "appareil":null,
     "dColors":[
       [
-        211,
-        176,
-        123
+        160,
+        167,
+        172
       ],
       [
         37,
@@ -306,14 +2236,14 @@
         23
       ],
       [
-        160,
-        167,
-        172
-      ],
-      [
         91,
         80,
         61
+      ],
+      [
+        208,
+        208,
+        210
       ],
       [
         143,
@@ -321,21 +2251,221 @@
         94
       ],
       [
-        208,
-        208,
-        210
+        210,
+        176,
+        123
       ]
     ],
     "dProportions":[
-      0.0737465111,
-      0.0952180785,
-      0.2580791606,
-      0.1664761072,
-      0.1281904698,
-      0.2782896728
+      0.258163231,
+      0.0951171941,
+      0.1661734539,
+      0.2783233009,
+      0.1284258668,
+      0.0737969533
     ]
   },
-  "5":{
+  "34":{
+    "label":"Ja\u00e9n Cathedral",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Jaen%20Cathedral%202023%20-%20west%20fa%C3%A7ade%201.jpg",
+    "entityID":"Q425898",
+    "format":"jpg",
+    "path":".\/images\/Ja\u00e9n Cathedral.jpg",
+    "size":[
+      3954,
+      3954
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument",
+      "#13\u00e8me si\u00e8cle",
+      "#Espagne",
+      "#architecture de la Renaissance"
+    ],
+    "year":1249.0,
+    "style":[
+      "Q236122"
+    ],
+    "orientation":1,
+    "artist":null,
+    "dateTaken":"2024:01:14 18:30:38",
+    "appareil":"ILCE-6500",
+    "dColors":[
+      [
+        206,
+        167,
+        126
+      ],
+      [
+        96,
+        72,
+        49
+      ],
+      [
+        187,
+        207,
+        221
+      ],
+      [
+        244,
+        241,
+        234
+      ],
+      [
+        158,
+        121,
+        84
+      ],
+      [
+        247,
+        219,
+        183
+      ]
+    ],
+    "dProportions":[
+      0.1315385501,
+      0.0970756419,
+      0.3479871052,
+      0.1096762226,
+      0.1230187666,
+      0.1907037137
+    ]
+  },
+  "35":{
+    "label":"Kumsusan Palace of the Sun",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/0995%20-%20Nordkorea%202015%20-%20Pj%C3%B6ngjang%20-%20Mausoleum%20%2822355259173%29.jpg",
+    "entityID":"Q606069",
+    "format":"jpg",
+    "path":".\/images\/Kumsusan Palace of the Sun.jpg",
+    "size":[
+      4928,
+      3264
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument",
+      "#20\u00e8me si\u00e8cle",
+      "#Cor\u00e9e du Nord",
+      "#brutalisme"
+    ],
+    "year":1976.0,
+    "style":[
+      "Q994776"
+    ],
+    "orientation":1,
+    "artist":"Uwe Brodrecht                       ",
+    "dateTaken":"2015:11:03 01:07:07",
+    "appareil":"NIKON D7000",
+    "dColors":[
+      [
+        176,
+        181,
+        188
+      ],
+      [
+        93,
+        92,
+        90
+      ],
+      [
+        14,
+        16,
+        15
+      ],
+      [
+        126,
+        121,
+        114
+      ],
+      [
+        54,
+        58,
+        43
+      ],
+      [
+        201,
+        203,
+        207
+      ]
+    ],
+    "dProportions":[
+      0.1495554865,
+      0.1214112527,
+      0.0686851104,
+      0.2457196145,
+      0.0918619832,
+      0.3227665527
+    ]
+  },
+  "36":{
+    "label":"Laboe Naval Memorial",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/00%201244%20Marine-Ehrenmal%20Laboe.jpg",
+    "entityID":"Q538382",
+    "format":"jpg",
+    "path":".\/images\/Laboe Naval Memorial.jpg",
+    "size":[
+      1107,
+      1660
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument",
+      "#20\u00e8me si\u00e8cle",
+      "#Allemagne",
+      "#architecture expressionniste",
+      "#architecture expressionniste"
+    ],
+    "year":1936.0,
+    "style":[
+      "Q1148060",
+      "Q1148060"
+    ],
+    "orientation":1,
+    "artist":"W.Bulach",
+    "dateTaken":"2017:02:28 17:29:34",
+    "appareil":"Canon EOS 6D",
+    "dColors":[
+      [
+        66,
+        125,
+        217
+      ],
+      [
+        34,
+        39,
+        32
+      ],
+      [
+        86,
+        89,
+        73
+      ],
+      [
+        96,
+        159,
+        240
+      ],
+      [
+        142,
+        129,
+        121
+      ],
+      [
+        194,
+        198,
+        197
+      ]
+    ],
+    "dProportions":[
+      0.2608695652,
+      0.1316319312,
+      0.1107906622,
+      0.2502040594,
+      0.208684769,
+      0.0378190129
+    ]
+  },
+  "37":{
     "label":"Longoria Palace",
     "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Palacio%20Longoria%20%28Madrid%29%2015.jpg",
     "entityID":"Q1164358",
@@ -362,14 +2492,9 @@
     "appareil":"DMC-ZX3",
     "dColors":[
       [
-        119,
-        115,
-        107
-      ],
-      [
-        251,
-        243,
-        211
+        174,
+        162,
+        143
       ],
       [
         35,
@@ -377,31 +2502,234 @@
         34
       ],
       [
-        72,
-        73,
-        77
-      ],
-      [
-        174,
-        162,
-        143
+        119,
+        115,
+        107
       ],
       [
         186,
         227,
         254
+      ],
+      [
+        72,
+        73,
+        77
+      ],
+      [
+        251,
+        243,
+        211
       ]
     ],
     "dProportions":[
-      0.1491626658,
-      0.0931855853,
-      0.1519704504,
-      0.2587591449,
-      0.104259545,
-      0.2426626086
+      0.1048668267,
+      0.1514417581,
+      0.1490126315,
+      0.2426697531,
+      0.2587091335,
+      0.0932998971
     ]
   },
-  "6":{
+  "38":{
+    "label":"Monastery of Iranzu",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Monasterio%20de%20Iranzu.%20Claustro.jpg",
+    "entityID":"Q837979",
+    "format":"jpg",
+    "path":".\/images\/Monastery of Iranzu.jpg",
+    "size":[
+      4224,
+      2376
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument",
+      "#12\u00e8me si\u00e8cle",
+      "#Espagne",
+      "#architecture gothique"
+    ],
+    "year":1176.0,
+    "style":[
+      "Q176483"
+    ],
+    "orientation":1,
+    "artist":null,
+    "dateTaken":null,
+    "appareil":" ",
+    "dColors":[
+      [
+        53,
+        45,
+        40
+      ],
+      [
+        211,
+        192,
+        182
+      ],
+      [
+        173,
+        153,
+        135
+      ],
+      [
+        254,
+        253,
+        253
+      ],
+      [
+        149,
+        130,
+        92
+      ],
+      [
+        106,
+        96,
+        74
+      ]
+    ],
+    "dProportions":[
+      0.1043910605,
+      0.1202036607,
+      0.197612666,
+      0.1814114763,
+      0.2462261989,
+      0.1501549376
+    ]
+  },
+  "39":{
+    "label":"Monastery of San Adri\u00e1n de Sasabe",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/SanAdriandeSasabe.jpg",
+    "entityID":"Q518072",
+    "format":"jpg",
+    "path":".\/images\/Monastery of San Adri\u00e1n de Sasabe.jpg",
+    "size":[
+      2048,
+      1536
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument",
+      "#9\u00e8me si\u00e8cle",
+      "#Espagne",
+      "#architecture romane"
+    ],
+    "year":801.0,
+    "style":[
+      "Q46261"
+    ],
+    "orientation":1,
+    "artist":null,
+    "dateTaken":"2004:04:24 10:56:54",
+    "appareil":"E3100",
+    "dColors":[
+      [
+        108,
+        103,
+        97
+      ],
+      [
+        218,
+        201,
+        191
+      ],
+      [
+        26,
+        26,
+        26
+      ],
+      [
+        192,
+        232,
+        252
+      ],
+      [
+        153,
+        145,
+        136
+      ],
+      [
+        68,
+        64,
+        62
+      ]
+    ],
+    "dProportions":[
+      0.1959755865,
+      0.1202237905,
+      0.1891728654,
+      0.1343378473,
+      0.1208913472,
+      0.2393985632
+    ]
+  },
+  "40":{
+    "label":"Monastery of San Miguel de Escalada",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/SMdE001%20fulgacian.jpg",
+    "entityID":"Q203741",
+    "format":"jpg",
+    "path":".\/images\/Monastery of San Miguel de Escalada.jpg",
+    "size":[
+      3264,
+      2448
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument",
+      "#10\u00e8me si\u00e8cle",
+      "#Espagne",
+      "#art mozarabe"
+    ],
+    "year":901.0,
+    "style":[
+      "Q1951304"
+    ],
+    "orientation":1,
+    "artist":null,
+    "dateTaken":"2007:09:12 17:42:20",
+    "appareil":"E-500           ",
+    "dColors":[
+      [
+        211,
+        182,
+        136
+      ],
+      [
+        87,
+        65,
+        42
+      ],
+      [
+        64,
+        128,
+        189
+      ],
+      [
+        237,
+        222,
+        184
+      ],
+      [
+        169,
+        138,
+        93
+      ],
+      [
+        109,
+        168,
+        214
+      ]
+    ],
+    "dProportions":[
+      0.1970889704,
+      0.0649662716,
+      0.2574496577,
+      0.226799995,
+      0.1032877364,
+      0.1504073689
+    ]
+  },
+  "41":{
     "label":"Monastery of Sant Jeroni de Cotalba",
     "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/MSJeroni.JPG",
     "entityID":"Q1321720",
@@ -428,6 +2756,11 @@
     "appareil":"DMC-TZ8",
     "dColors":[
       [
+        200,
+        195,
+        183
+      ],
+      [
         104,
         108,
         101
@@ -438,36 +2771,99 @@
         192
       ],
       [
+        151,
+        142,
+        129
+      ],
+      [
         26,
         37,
         24
       ],
       [
-        200,
-        195,
-        183
-      ],
-      [
         64,
         74,
         49
-      ],
-      [
-        151,
-        142,
-        129
       ]
     ],
     "dProportions":[
-      0.1042083333,
-      0.4511833333,
-      0.1768333333,
-      0.0302416667,
-      0.1334416667,
-      0.1040916667
+      0.0304166667,
+      0.1040916667,
+      0.451225,
+      0.1041333333,
+      0.1768916667,
+      0.1332416667
     ]
   },
-  "7":{
+  "42":{
+    "label":"Monument to the Battle of the Nations",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/StadtAL%200563%20BA%201988%2026692.jpg",
+    "entityID":"Q699448",
+    "format":"jpg",
+    "path":".\/images\/Monument to the Battle of the Nations.jpg",
+    "size":[
+      6578,
+      4268
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument",
+      "#20\u00e8me si\u00e8cle",
+      "#Allemagne",
+      "#Art nouveau",
+      "#Art nouveau"
+    ],
+    "year":1913.0,
+    "style":[
+      "Q34636",
+      "Q34636"
+    ],
+    "orientation":1,
+    "artist":null,
+    "dateTaken":null,
+    "appareil":null,
+    "dColors":[
+      [
+        216,
+        216,
+        216
+      ],
+      [
+        87,
+        87,
+        87
+      ],
+      [
+        117,
+        117,
+        117
+      ],
+      [
+        34,
+        34,
+        34
+      ],
+      [
+        158,
+        158,
+        158
+      ],
+      [
+        232,
+        232,
+        232
+      ]
+    ],
+    "dProportions":[
+      0.1219590383,
+      0.1575957257,
+      0.2506429207,
+      0.0869243099,
+      0.0791344613,
+      0.3037435441
+    ]
+  },
+  "43":{
     "label":"Monument to the Unknown Hero",
     "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Monument%20au%20soldat%20inconnu%20mont%20Avala.jpg",
     "entityID":"Q1187994",
@@ -494,46 +2890,178 @@
     "appareil":"Canon PowerShot A510",
     "dColors":[
       [
-        63,
-        65,
-        68
-      ],
-      [
         237,
         238,
         247
       ],
       [
-        134,
-        132,
-        130
+        57,
+        59,
+        61
       ],
       [
-        37,
-        39,
-        39
+        130,
+        129,
+        127
       ],
       [
-        93,
-        95,
-        100
+        34,
+        36,
+        35
       ],
       [
         175,
         172,
-        172
+        171
+      ],
+      [
+        87,
+        89,
+        94
       ]
     ],
     "dProportions":[
-      0.1073216312,
-      0.4838149903,
-      0.0553627444,
-      0.1489354602,
-      0.0762530868,
-      0.128312087
+      0.4838817326,
+      0.1203697524,
+      0.0601681906,
+      0.1157979043,
+      0.131549089,
+      0.0882333311
     ]
   },
-  "8":{
+  "44":{
+    "label":"Museum Cerralbo",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Palacio%20del%20Marqu%C3%A9s%20de%20Cerralbo%20%28Madrid%29%2001.jpg",
+    "entityID":"Q976019",
+    "format":"jpg",
+    "path":".\/images\/Museum Cerralbo.jpg",
+    "size":[
+      3056,
+      2107
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument",
+      "#20\u00e8me si\u00e8cle",
+      "#Espagne",
+      "#n\u00e9o-classicisme"
+    ],
+    "year":1944.0,
+    "style":[
+      "Q14378"
+    ],
+    "orientation":1,
+    "artist":"Luis Garcia ([[User:Zaqarbal|Zaqarbal]])",
+    "dateTaken":"2009:01:20 10:26:12",
+    "appareil":"KODAK EASYSHARE C713 ZOOM DIGITAL CAMERA",
+    "dColors":[
+      [
+        116,
+        179,
+        225
+      ],
+      [
+        52,
+        44,
+        47
+      ],
+      [
+        235,
+        234,
+        227
+      ],
+      [
+        133,
+        131,
+        130
+      ],
+      [
+        90,
+        85,
+        85
+      ],
+      [
+        199,
+        182,
+        168
+      ]
+    ],
+    "dProportions":[
+      0.2256716882,
+      0.2210591707,
+      0.1246466843,
+      0.1494952632,
+      0.1861624476,
+      0.0929647461
+    ]
+  },
+  "45":{
+    "label":"National Monument on Dam Square",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Overzicht%20voorzijde%20-%20Amsterdam%20-%2020357041%20-%20RCE.jpg",
+    "entityID":"Q473851",
+    "format":"jpg",
+    "path":".\/images\/National Monument on Dam Square.jpg",
+    "size":[
+      3038,
+      3083
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument",
+      "#20\u00e8me si\u00e8cle",
+      "#Pays-Bas",
+      "#reconstruction-period architecture"
+    ],
+    "year":1956.0,
+    "style":[
+      "Q3282723"
+    ],
+    "orientation":0,
+    "artist":null,
+    "dateTaken":null,
+    "appareil":null,
+    "dColors":[
+      [
+        127,
+        122,
+        112
+      ],
+      [
+        45,
+        40,
+        36
+      ],
+      [
+        82,
+        81,
+        78
+      ],
+      [
+        104,
+        128,
+        171
+      ],
+      [
+        203,
+        200,
+        199
+      ],
+      [
+        154,
+        163,
+        177
+      ]
+    ],
+    "dProportions":[
+      0.1306079306,
+      0.1140697401,
+      0.1491426619,
+      0.1821870129,
+      0.1463773996,
+      0.2776152549
+    ]
+  },
+  "46":{
     "label":"Ourense Cathedral",
     "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Ourense%20cathedral%202021%20-%20west%20fa%C3%A7ade.jpg",
     "entityID":"Q1361548",
@@ -560,46 +3088,112 @@
     "appareil":"ILCE-6500",
     "dColors":[
       [
-        149,
-        131,
-        114
-      ],
-      [
+        123,
         105,
-        88,
-        69
+        85
       ],
       [
-        229,
-        212,
-        190
+        162,
+        198,
+        232
       ],
       [
-        152,
-        191,
-        228
+        81,
+        67,
+        51
       ],
       [
-        46,
-        38,
-        28
+        230,
+        213,
+        192
       ],
       [
-        179,
-        209,
-        239
+        156,
+        139,
+        123
+      ],
+      [
+        33,
+        27,
+        20
       ]
     ],
     "dProportions":[
-      0.1989905874,
-      0.1931892314,
-      0.1209023555,
-      0.2223620139,
-      0.1432777661,
-      0.1212780457
+      0.1695731693,
+      0.3406869598,
+      0.140286806,
+      0.1185055101,
+      0.1407236551,
+      0.0902238997
     ]
   },
-  "9":{
+  "47":{
+    "label":"Palacio Episcopal de Astorga",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Palacio%20episcopal%20de%20Astorga.JPG",
+    "entityID":"Q507390",
+    "format":"JPG",
+    "path":".\/images\/Palacio Episcopal de Astorga.JPG",
+    "size":[
+      1187,
+      1031
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument",
+      "#19\u00e8me si\u00e8cle",
+      "#Espagne",
+      "#style n\u00e9ogothique"
+    ],
+    "year":1889.0,
+    "style":[
+      "Q186363"
+    ],
+    "orientation":0,
+    "artist":null,
+    "dateTaken":"2003:09:06 13:05:29",
+    "appareil":"FinePix2600Zoom",
+    "dColors":[
+      [
+        107,
+        163,
+        209
+      ],
+      [
+        56,
+        54,
+        43
+      ],
+      [
+        188,
+        184,
+        168
+      ],
+      [
+        138,
+        135,
+        120
+      ],
+      [
+        97,
+        96,
+        83
+      ],
+      [
+        234,
+        229,
+        212
+      ]
+    ],
+    "dProportions":[
+      0.3192515117,
+      0.099607779,
+      0.134008825,
+      0.1159503187,
+      0.2152312469,
+      0.1159503187
+    ]
+  },
+  "48":{
     "label":"Palacio de la Condesa de Lebrija",
     "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/SevillaPalacioDeLebrija01.JPG",
     "entityID":"Q1064212",
@@ -626,14 +3220,14 @@
     "appareil":"DSC-P73",
     "dColors":[
       [
+        163,
+        140,
+        114
+      ],
+      [
         39,
         31,
         27
-      ],
-      [
-        190,
-        171,
-        155
       ],
       [
         254,
@@ -646,26 +3240,360 @@
         54
       ],
       [
-        163,
-        140,
-        113
-      ],
-      [
         130,
         108,
         84
+      ],
+      [
+        191,
+        171,
+        155
       ]
     ],
     "dProportions":[
-      0.2354699352,
-      0.0973024564,
-      0.0690460642,
-      0.1891796855,
-      0.2377555634,
-      0.1712462953
+      0.2372783443,
+      0.2353192344,
+      0.0690209474,
+      0.1900085397,
+      0.1729291204,
+      0.0954438137
     ]
   },
-  "10":{
+  "49":{
+    "label":"Pamplona Cathedral",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Pamplona%202022%20-%20west%20facade%20front.jpg",
+    "entityID":"Q389210",
+    "format":"jpg",
+    "path":".\/images\/Pamplona Cathedral.jpg",
+    "size":[
+      8000,
+      6400
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument",
+      "#14\u00e8me si\u00e8cle",
+      "#Espagne",
+      "#architecture n\u00e9oclassique",
+      "#architecture gothique"
+    ],
+    "year":1394.0,
+    "style":[
+      "Q54111",
+      "Q176483"
+    ],
+    "orientation":1,
+    "artist":null,
+    "dateTaken":null,
+    "appareil":null,
+    "dColors":[
+      [
+        216,
+        188,
+        138
+      ],
+      [
+        106,
+        183,
+        234
+      ],
+      [
+        236,
+        218,
+        182
+      ],
+      [
+        48,
+        35,
+        20
+      ],
+      [
+        109,
+        82,
+        52
+      ],
+      [
+        153,
+        127,
+        92
+      ]
+    ],
+    "dProportions":[
+      0.0920253906,
+      0.42946875,
+      0.1269082031,
+      0.0742695313,
+      0.1091503906,
+      0.1681777344
+    ]
+  },
+  "50":{
+    "label":"Panathenaic Stadium",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/GR-athen-panathinaiko-stadion.jpg",
+    "entityID":"Q208811",
+    "format":"jpg",
+    "path":".\/images\/Panathenaic Stadium.jpg",
+    "size":[
+      2259,
+      653
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument",
+      "#Antiquit\u00e9",
+      "#Gr\u00e8ce",
+      "#architecture de la Gr\u00e8ce antique"
+    ],
+    "year":-328.0,
+    "style":[
+      "Q331273"
+    ],
+    "orientation":1,
+    "artist":null,
+    "dateTaken":"2011:10:27 19:02:56",
+    "appareil":null,
+    "dColors":[
+      [
+        131,
+        160,
+        181
+      ],
+      [
+        63,
+        68,
+        60
+      ],
+      [
+        168,
+        160,
+        148
+      ],
+      [
+        179,
+        199,
+        210
+      ],
+      [
+        22,
+        29,
+        22
+      ],
+      [
+        116,
+        110,
+        94
+      ]
+    ],
+    "dProportions":[
+      0.0881914317,
+      0.1260845987,
+      0.2708107375,
+      0.2293926247,
+      0.1307619306,
+      0.1547586768
+    ]
+  },
+  "51":{
+    "label":"Plaza de Espa\u00f1a",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Pergola%20-%20Plaza%20de%20Espa%C3%B1a%20-%20Tazacorte%2003.jpg",
+    "entityID":"Q956018",
+    "format":"jpg",
+    "path":".\/images\/Plaza de Espa\u00f1a.jpg",
+    "size":[
+      5470,
+      3924
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument",
+      "#20\u00e8me si\u00e8cle",
+      "#Espagne",
+      "#regionalist architecture",
+      "#regionalist architecture"
+    ],
+    "year":1928.0,
+    "style":[
+      "Q5705264",
+      "Q5705264"
+    ],
+    "orientation":1,
+    "artist":null,
+    "dateTaken":"2019:07:08 21:49:52",
+    "appareil":"Canon EOS 80D",
+    "dColors":[
+      [
+        26,
+        16,
+        13
+      ],
+      [
+        84,
+        78,
+        78
+      ],
+      [
+        140,
+        102,
+        45
+      ],
+      [
+        91,
+        134,
+        165
+      ],
+      [
+        59,
+        43,
+        33
+      ],
+      [
+        169,
+        167,
+        163
+      ]
+    ],
+    "dProportions":[
+      0.327366837,
+      0.1318608107,
+      0.0756372209,
+      0.063211938,
+      0.3142380604,
+      0.087685133
+    ]
+  },
+  "52":{
+    "label":"Plaza de toros de la Malagueta",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/M%C3%A1laga%20La%20Malagueta%2001.jpg",
+    "entityID":"Q523311",
+    "format":"jpg",
+    "path":".\/images\/Plaza de toros de la Malagueta.jpg",
+    "size":[
+      3376,
+      2532
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument",
+      "#19\u00e8me si\u00e8cle",
+      "#Espagne",
+      "#architecture n\u00e9o-mauresque"
+    ],
+    "year":1876.0,
+    "style":[
+      "Q74156"
+    ],
+    "orientation":1,
+    "artist":null,
+    "dateTaken":"2008:04:28 11:38:27",
+    "appareil":"Canon DIGITAL IXUS 900Ti",
+    "dColors":[
+      [
+        73,
+        64,
+        50
+      ],
+      [
+        166,
+        142,
+        127
+      ],
+      [
+        115,
+        104,
+        96
+      ],
+      [
+        240,
+        236,
+        222
+      ],
+      [
+        30,
+        27,
+        21
+      ],
+      [
+        209,
+        190,
+        156
+      ]
+    ],
+    "dProportions":[
+      0.2462769504,
+      0.1510160153,
+      0.1982662814,
+      0.0934125712,
+      0.2143400288,
+      0.0966881529
+    ]
+  },
+  "53":{
+    "label":"Royal Convent of La Encarnaci\u00f3n",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Real%20Monasterio%20de%20la%20Encarnaci%C3%B3n%20%28Madrid%29%2001.jpg",
+    "entityID":"Q205524",
+    "format":"jpg",
+    "path":".\/images\/Royal Convent of La Encarnaci\u00f3n.jpg",
+    "size":[
+      1595,
+      1138
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument",
+      "#17\u00e8me si\u00e8cle",
+      "#Espagne",
+      "#architecture baroque"
+    ],
+    "year":1616.0,
+    "style":[
+      "Q840829"
+    ],
+    "orientation":1,
+    "artist":"[[User:Zaqarbal|Zaqarbal]]",
+    "dateTaken":"2006:04:15 10:30:33",
+    "appareil":"COACH 1.0\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+    "dColors":[
+      [
+        193,
+        193,
+        192
+      ],
+      [
+        72,
+        58,
+        59
+      ],
+      [
+        151,
+        150,
+        153
+      ],
+      [
+        32,
+        26,
+        29
+      ],
+      [
+        116,
+        105,
+        102
+      ],
+      [
+        231,
+        226,
+        224
+      ]
+    ],
+    "dProportions":[
+      0.2075804319,
+      0.1603129132,
+      0.1287461437,
+      0.2870758043,
+      0.0866020273,
+      0.1296826796
+    ]
+  },
+  "54":{
     "label":"Royal Palace of El Pardo",
     "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/El%20Palacio%20de%20El%20Pardo.JPG",
     "entityID":"Q1368571",
@@ -692,46 +3620,112 @@
     "appareil":"Canon EOS 50D\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
     "dColors":[
       [
-        225,
-        213,
-        207
-      ],
-      [
+        42,
         40,
-        38,
-        21
+        22
       ],
       [
-        25,
-        103,
-        194
+        55,
+        127,
+        215
       ],
       [
-        79,
-        74,
-        53
+        85,
+        77,
+        56
       ],
       [
-        131,
-        100,
-        86
+        10,
+        92,
+        183
       ],
       [
-        150,
-        153,
-        164
+        219,
+        207,
+        203
+      ],
+      [
+        142,
+        115,
+        105
       ]
     ],
     "dProportions":[
-      0.0871187984,
-      0.1699135184,
-      0.3572598999,
-      0.2206190259,
-      0.1123805189,
-      0.0527082385
+      0.1866181156,
+      0.1370277651,
+      0.235685025,
+      0.2301319982,
+      0.100295858,
+      0.1102412381
     ]
   },
-  "11":{
+  "55":{
+    "label":"Royal Tapestry Factory",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Real%20Fabrica%20de%20Tapices%20de%20Madrid.jpg",
+    "entityID":"Q570665",
+    "format":"jpg",
+    "path":".\/images\/Royal Tapestry Factory.jpg",
+    "size":[
+      2277,
+      1812
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument",
+      "#19\u00e8me si\u00e8cle",
+      "#Espagne",
+      "#N\u00e9o-mud\u00e9jar"
+    ],
+    "year":1891.0,
+    "style":[
+      "Q614624"
+    ],
+    "orientation":1,
+    "artist":null,
+    "dateTaken":"2016:10:26 07:06:54",
+    "appareil":"GT-I9000",
+    "dColors":[
+      [
+        182,
+        186,
+        162
+      ],
+      [
+        79,
+        90,
+        65
+      ],
+      [
+        233,
+        240,
+        238
+      ],
+      [
+        145,
+        154,
+        116
+      ],
+      [
+        41,
+        42,
+        35
+      ],
+      [
+        111,
+        121,
+        93
+      ]
+    ],
+    "dProportions":[
+      0.1217401842,
+      0.228356762,
+      0.0628453708,
+      0.2088221037,
+      0.1189772176,
+      0.2592583616
+    ]
+  },
+  "56":{
     "label":"Sanctuary of Nuestra Se\u00f1ora de Est\u00edbaliz",
     "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Estibalizko%20santutegi%20erromanikoa.jpg",
     "entityID":"Q1139113",
@@ -758,46 +3752,114 @@
     "appareil":"DSC-P73",
     "dColors":[
       [
-        129,
-        127,
-        116
-      ],
-      [
-        130,
-        177,
-        223
-      ],
-      [
-        196,
-        212,
-        224
-      ],
-      [
-        29,
-        27,
-        20
-      ],
-      [
-        186,
+        187,
         183,
         163
       ],
       [
-        78,
-        74,
-        66
+        30,
+        28,
+        20
+      ],
+      [
+        130,
+        128,
+        117
+      ],
+      [
+        79,
+        75,
+        67
+      ],
+      [
+        129,
+        177,
+        223
+      ],
+      [
+        195,
+        212,
+        225
       ]
     ],
     "dProportions":[
-      0.1560506355,
-      0.1791832019,
-      0.1217159793,
-      0.2073642437,
-      0.1666248053,
-      0.1690611343
+      0.1664992214,
+      0.2099512734,
+      0.1554729492,
+      0.1691616014,
+      0.1770482745,
+      0.1218666801
     ]
   },
-  "12":{
+  "57":{
+    "label":"Santa Cristina de Lena",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Santa%20Cristina%20de%20Lena.jpg",
+    "entityID":"Q665154",
+    "format":"jpg",
+    "path":".\/images\/Santa Cristina de Lena.jpg",
+    "size":[
+      1024,
+      768
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument",
+      "#9\u00e8me si\u00e8cle",
+      "#Espagne",
+      "#art pr\u00e9roman",
+      "#art asturien"
+    ],
+    "year":852.0,
+    "style":[
+      "Q708807",
+      "Q2748473"
+    ],
+    "orientation":0,
+    "artist":null,
+    "dateTaken":"2005:05:25 18:42:52",
+    "appareil":"E4200",
+    "dColors":[
+      [
+        175,
+        212,
+        253
+      ],
+      [
+        91,
+        95,
+        43
+      ],
+      [
+        192,
+        161,
+        126
+      ],
+      [
+        27,
+        31,
+        9
+      ],
+      [
+        226,
+        238,
+        250
+      ],
+      [
+        143,
+        124,
+        91
+      ]
+    ],
+    "dProportions":[
+      0.2021614749,
+      0.1562619199,
+      0.1757151939,
+      0.0785759695,
+      0.1434202161,
+      0.2438652257
+    ]
+  },
+  "58":{
     "label":"Santa Maria de Lara",
     "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Wisig%20Quintanilla%20de%20las%20Vignas%20b.jpg",
     "entityID":"Q142565",
@@ -824,24 +3886,14 @@
     "appareil":null,
     "dColors":[
       [
-        107,
-        75,
-        54
-      ],
-      [
         212,
         212,
         216
       ],
       [
-        163,
-        123,
-        81
-      ],
-      [
-        44,
-        25,
-        20
+        104,
+        73,
+        53
       ],
       [
         238,
@@ -849,21 +3901,31 @@
         139
       ],
       [
-        204,
+        161,
+        121,
+        80
+      ],
+      [
+        43,
+        24,
+        19
+      ],
+      [
+        203,
         161,
         109
       ]
     ],
     "dProportions":[
-      0.1046201688,
-      0.3607285651,
-      0.1232785429,
-      0.0693025322,
-      0.1510439805,
-      0.1910262106
+      0.3609506886,
+      0.1015104398,
+      0.1523767215,
+      0.1241670369,
+      0.0664149267,
+      0.1945801866
     ]
   },
-  "13":{
+  "59":{
     "label":"Santa Maria de Ovila",
     "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Ruinas%20ovila.jpg",
     "entityID":"Q1166944",
@@ -890,18 +3952,18 @@
     "appareil":null,
     "dColors":[
       [
-        241,
-        231,
-        221
-      ],
-      [
-        80,
-        70,
+        81,
+        71,
         68
       ],
       [
+        241,
+        231,
+        222
+      ],
+      [
         76,
-        125,
+        126,
         188
       ],
       [
@@ -910,26 +3972,232 @@
         19
       ],
       [
-        187,
+        188,
         184,
         186
       ],
       [
-        124,
-        109,
+        125,
+        110,
         100
       ]
     ],
     "dProportions":[
-      0.1553254438,
-      0.2677514793,
-      0.2312623274,
-      0.1464497041,
+      0.2687376726,
+      0.1548323471,
+      0.2317554241,
+      0.1479289941,
       0.1040433925,
-      0.0951676529
+      0.0927021696
     ]
   },
-  "14":{
+  "60":{
+    "label":"Santes Creus",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Monestir%20de%20Santes%20Creus%20%28Aiguam%C3%BArcia%29%20-%2036.jpg",
+    "entityID":"Q159615",
+    "format":"jpg",
+    "path":".\/images\/Santes Creus.jpg",
+    "size":[
+      3008,
+      2000
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument",
+      "#12\u00e8me si\u00e8cle",
+      "#Espagne",
+      "#art cistercien"
+    ],
+    "year":1160.0,
+    "style":[
+      "Q2864605"
+    ],
+    "orientation":1,
+    "artist":null,
+    "dateTaken":"2011:04:25 18:59:06",
+    "appareil":"NIKON D40",
+    "dColors":[
+      [
+        74,
+        78,
+        76
+      ],
+      [
+        217,
+        198,
+        184
+      ],
+      [
+        138,
+        163,
+        47
+      ],
+      [
+        35,
+        41,
+        31
+      ],
+      [
+        173,
+        144,
+        118
+      ],
+      [
+        84,
+        108,
+        29
+      ]
+    ],
+    "dProportions":[
+      0.3300531915,
+      0.1149767287,
+      0.1101894947,
+      0.2196476064,
+      0.0821642287,
+      0.14296875
+    ]
+  },
+  "61":{
+    "label":"Skull Tower",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/%C4%86ele%20kula%20Ni%C5%A1.jpg",
+    "entityID":"Q336310",
+    "format":"jpg",
+    "path":".\/images\/Skull Tower.jpg",
+    "size":[
+      3000,
+      2000
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument",
+      "#19\u00e8me si\u00e8cle",
+      "#Serbie",
+      "#architecture ottomane",
+      "#architecture ottomane",
+      "#architecture ottomane",
+      "#architecture ottomane"
+    ],
+    "year":1809.0,
+    "style":[
+      "Q527449",
+      "Q527449",
+      "Q527449",
+      "Q527449"
+    ],
+    "orientation":1,
+    "artist":"Davorin Dinic",
+    "dateTaken":"2017:02:05 11:58:41",
+    "appareil":"Canon EOS 600D",
+    "dColors":[
+      [
+        48,
+        49,
+        34
+      ],
+      [
+        181,
+        175,
+        146
+      ],
+      [
+        137,
+        138,
+        93
+      ],
+      [
+        218,
+        218,
+        211
+      ],
+      [
+        106,
+        126,
+        45
+      ],
+      [
+        80,
+        83,
+        51
+      ]
+    ],
+    "dProportions":[
+      0.2690333333,
+      0.10695,
+      0.1277166667,
+      0.1023333333,
+      0.1652833333,
+      0.2286833333
+    ]
+  },
+  "62":{
+    "label":"Sobrado Abbey",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Monasterio%20de%20Santa%20Mar%C3%ADa%20de%20Sobrado%20dos%20Monxes%20%28187457316%29.jpg",
+    "entityID":"Q680292",
+    "format":"jpg",
+    "path":".\/images\/Sobrado Abbey.jpg",
+    "size":[
+      1600,
+      1200
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument",
+      "#12\u00e8me si\u00e8cle",
+      "#Espagne",
+      "#art cistercien",
+      "#art cistercien"
+    ],
+    "year":1101.0,
+    "style":[
+      "Q2864605",
+      "Q2864605"
+    ],
+    "orientation":1,
+    "artist":null,
+    "dateTaken":"2006:07:09 12:09:09",
+    "appareil":"E5600",
+    "dColors":[
+      [
+        174,
+        229,
+        253
+      ],
+      [
+        57,
+        66,
+        63
+      ],
+      [
+        22,
+        34,
+        25
+      ],
+      [
+        85,
+        95,
+        93
+      ],
+      [
+        238,
+        253,
+        254
+      ],
+      [
+        166,
+        168,
+        164
+      ]
+    ],
+    "dProportions":[
+      0.0945833333,
+      0.2584895833,
+      0.1793229167,
+      0.2424479167,
+      0.1978645833,
+      0.0272916667
+    ]
+  },
+  "63":{
     "label":"Stonehenge",
     "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Stonehenge%20Total.jpg",
     "entityID":"Q39671",
@@ -958,46 +4226,314 @@
     "appareil":"DiMAGE Z1",
     "dColors":[
       [
-        157,
-        184,
-        213
+        135,
+        181,
+        230
       ],
       [
-        94,
-        108,
-        47
-      ],
-      [
-        201,
-        211,
-        223
-      ],
-      [
-        146,
-        147,
-        138
-      ],
-      [
-        120,
-        120,
-        104
-      ],
-      [
-        58,
-        68,
+        65,
+        76,
         32
+      ],
+      [
+        168,
+        187,
+        207
+      ],
+      [
+        206,
+        215,
+        225
+      ],
+      [
+        138,
+        138,
+        126
+      ],
+      [
+        96,
+        110,
+        51
       ]
     ],
     "dProportions":[
-      0.2950600801,
-      0.2895288957,
-      0.1979782567,
-      0.0867505881,
-      0.0624960264,
-      0.068186153
+      0.0810604616,
+      0.0973361307,
+      0.2634306059,
+      0.154014877,
+      0.1281391061,
+      0.2760188187
     ]
   },
-  "15":{
+  "64":{
+    "label":"Tarragona Cathedral",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Cathedral%20of%20Tarragona%2001.jpg",
+    "entityID":"Q974716",
+    "format":"jpg",
+    "path":".\/images\/Tarragona Cathedral.jpg",
+    "size":[
+      2025,
+      2440
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument",
+      "#12\u00e8me si\u00e8cle",
+      "#Espagne",
+      "#architecture romane"
+    ],
+    "year":1170.0,
+    "style":[
+      "Q46261"
+    ],
+    "orientation":1,
+    "artist":null,
+    "dateTaken":"2013:09:04 16:16:11",
+    "appareil":null,
+    "dColors":[
+      [
+        45,
+        100,
+        161
+      ],
+      [
+        193,
+        181,
+        162
+      ],
+      [
+        44,
+        37,
+        30
+      ],
+      [
+        220,
+        220,
+        214
+      ],
+      [
+        103,
+        94,
+        85
+      ],
+      [
+        156,
+        145,
+        130
+      ]
+    ],
+    "dProportions":[
+      0.1224246104,
+      0.1544221817,
+      0.1954665048,
+      0.2791337786,
+      0.0941914592,
+      0.1543614653
+    ]
+  },
+  "65":{
+    "label":"Torre del Oro",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Sevilla%20Torre%20del%20oro.JPG",
+    "entityID":"Q943873",
+    "format":"JPG",
+    "path":".\/images\/Torre del Oro.JPG",
+    "size":[
+      1728,
+      2304
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument",
+      "#13\u00e8me si\u00e8cle",
+      "#Espagne",
+      "#art almoravide et almohade",
+      "#art hispano-mauresque"
+    ],
+    "year":1221.0,
+    "style":[
+      "Q2864591",
+      "Q2864672"
+    ],
+    "orientation":1,
+    "artist":null,
+    "dateTaken":"2005:08:04 11:45:14",
+    "appareil":"DSC-P73",
+    "dColors":[
+      [
+        99,
+        120,
+        147
+      ],
+      [
+        53,
+        47,
+        33
+      ],
+      [
+        156,
+        141,
+        114
+      ],
+      [
+        99,
+        89,
+        69
+      ],
+      [
+        147,
+        162,
+        178
+      ],
+      [
+        196,
+        181,
+        152
+      ]
+    ],
+    "dProportions":[
+      0.3334003114,
+      0.1159893505,
+      0.098206661,
+      0.1227708846,
+      0.2017883157,
+      0.1278444768
+    ]
+  },
+  "66":{
+    "label":"Tower of Hercules",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/A%20coruna%20torre%20de%20hercules%20sunset%20edit.jpg",
+    "entityID":"Q245151",
+    "format":"jpg",
+    "path":".\/images\/Tower of Hercules.jpg",
+    "size":[
+      1903,
+      2562
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument",
+      "#1er si\u00e8cle",
+      "#Espagne",
+      "#architecture romaine"
+    ],
+    "year":100.0,
+    "style":[
+      "Q223750"
+    ],
+    "orientation":1,
+    "artist":null,
+    "dateTaken":"2007:04:10 18:23:58",
+    "appareil":"E5400",
+    "dColors":[
+      [
+        126,
+        169,
+        216
+      ],
+      [
+        113,
+        112,
+        64
+      ],
+      [
+        213,
+        194,
+        154
+      ],
+      [
+        154,
+        189,
+        219
+      ],
+      [
+        168,
+        150,
+        113
+      ],
+      [
+        232,
+        227,
+        219
+      ]
+    ],
+    "dProportions":[
+      0.3086452672,
+      0.1595528664,
+      0.0671315762,
+      0.2894882576,
+      0.1410727105,
+      0.0341093221
+    ]
+  },
+  "67":{
+    "label":"University of O\u00f1ati",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/O%C3%B1ate%20-%20Universidad%2012.jpg",
+    "entityID":"Q339482",
+    "format":"jpg",
+    "path":".\/images\/University of O\u00f1ati.jpg",
+    "size":[
+      1600,
+      1200
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument",
+      "#16\u00e8me si\u00e8cle",
+      "#Espagne",
+      "#architecture gothique",
+      "#architecture de la Renaissance"
+    ],
+    "year":1540.0,
+    "style":[
+      "Q176483",
+      "Q236122"
+    ],
+    "orientation":1,
+    "artist":null,
+    "dateTaken":null,
+    "appareil":null,
+    "dColors":[
+      [
+        167,
+        145,
+        120
+      ],
+      [
+        210,
+        191,
+        169
+      ],
+      [
+        60,
+        46,
+        34
+      ],
+      [
+        58,
+        125,
+        210
+      ],
+      [
+        114,
+        94,
+        77
+      ],
+      [
+        125,
+        161,
+        214
+      ]
+    ],
+    "dProportions":[
+      0.2439583333,
+      0.1803645833,
+      0.1680208333,
+      0.1444270833,
+      0.1696875,
+      0.0935416667
+    ]
+  },
+  "68":{
     "label":"Victoria Memorial",
     "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/%22The%20Victoria%20Memorial%22%20London%20%22Christmas%20day%22%20%2815925642490%29.jpg",
     "entityID":"Q1333411",
@@ -1024,7 +4560,7 @@
     "appareil":"NIKON D3000",
     "dColors":[
       [
-        110,
+        111,
         151,
         184
       ],
@@ -1036,31 +4572,367 @@
       [
         197,
         172,
-        130
+        129
       ],
       [
-        84,
-        133,
-        174
+        66,
+        117,
+        163
       ],
       [
         109,
-        103,
+        102,
         89
       ],
       [
-        65,
-        115,
-        163
+        86,
+        135,
+        176
       ]
     ],
     "dProportions":[
-      0.1929296653,
-      0.1081773163,
-      0.1628488586,
-      0.2060918865,
-      0.1160288154,
-      0.2139234578
+      0.1744567221,
+      0.1078784014,
+      0.1630082799,
+      0.2394906489,
+      0.1161583452,
+      0.1990076024
+    ]
+  },
+  "69":{
+    "label":"Vinar\u00f2s Church of the Assumption",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Esgl%C3%A9sia%20Verge%20de%20l%27Assumpci%C3%B3%20de%20Vinar%C3%B2s.jpg",
+    "entityID":"Q946105",
+    "format":"jpg",
+    "path":".\/images\/Vinar\u00f2s Church of the Assumption.jpg",
+    "size":[
+      2304,
+      3072
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument",
+      "#16\u00e8me si\u00e8cle",
+      "#Espagne",
+      "#architecture de la Renaissance",
+      "#Gothique valencien"
+    ],
+    "year":1600.0,
+    "style":[
+      "Q236122",
+      "Q21032839"
+    ],
+    "orientation":0,
+    "artist":null,
+    "dateTaken":"2009:05:02 19:42:55",
+    "appareil":"Canon DIGITAL IXUS 70",
+    "dColors":[
+      [
+        43,
+        42,
+        40
+      ],
+      [
+        134,
+        130,
+        126
+      ],
+      [
+        137,
+        198,
+        252
+      ],
+      [
+        252,
+        247,
+        233
+      ],
+      [
+        94,
+        89,
+        86
+      ],
+      [
+        179,
+        175,
+        167
+      ]
+    ],
+    "dProportions":[
+      0.1445485243,
+      0.2064171576,
+      0.1750943076,
+      0.1144972379,
+      0.2083386315,
+      0.1511041411
+    ]
+  },
+  "70":{
+    "label":"Wallace Monument",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Wfm%20wallace%20monument.jpg",
+    "entityID":"Q931796",
+    "format":"jpg",
+    "path":".\/images\/Wallace Monument.jpg",
+    "size":[
+      2288,
+      1712
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument",
+      "#19\u00e8me si\u00e8cle",
+      "#Royaume-Uni",
+      "#Scottish baronial style"
+    ],
+    "year":1869.0,
+    "style":[
+      "Q3476363"
+    ],
+    "orientation":1,
+    "artist":null,
+    "dateTaken":"2010:05:04 11:14:10",
+    "appareil":"C750UZ",
+    "dColors":[
+      [
+        123,
+        143,
+        158
+      ],
+      [
+        42,
+        51,
+        27
+      ],
+      [
+        209,
+        225,
+        213
+      ],
+      [
+        147,
+        170,
+        181
+      ],
+      [
+        14,
+        17,
+        16
+      ],
+      [
+        75,
+        84,
+        48
+      ]
+    ],
+    "dProportions":[
+      0.2163845702,
+      0.1555487478,
+      0.0666053968,
+      0.3073191902,
+      0.1661177912,
+      0.0880243037
+    ]
+  },
+  "71":{
+    "label":"Worker and Kolkhoz Woman",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Ouvrier%20kolkhosienne%202.jpg",
+    "entityID":"Q627114",
+    "format":"jpg",
+    "path":".\/images\/Worker and Kolkhoz Woman.jpg",
+    "size":[
+      1134,
+      1294
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument",
+      "#20\u00e8me si\u00e8cle",
+      "#Russie",
+      "#constructivisme",
+      "#art monumental"
+    ],
+    "year":1937.0,
+    "style":[
+      "Q207103",
+      "Q12130002"
+    ],
+    "orientation":0,
+    "artist":null,
+    "dateTaken":null,
+    "appareil":null,
+    "dColors":[
+      [
+        217,
+        217,
+        217
+      ],
+      [
+        104,
+        104,
+        104
+      ],
+      [
+        142,
+        142,
+        142
+      ],
+      [
+        207,
+        207,
+        207
+      ],
+      [
+        187,
+        187,
+        187
+      ],
+      [
+        72,
+        72,
+        72
+      ]
+    ],
+    "dProportions":[
+      0.3192721821,
+      0.0759847349,
+      0.092476489,
+      0.3613193403,
+      0.0875017037,
+      0.06344555
+    ]
+  },
+  "72":{
+    "label":"Yuste",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Claustro%20renacentista%20del%20monasterio%20de%20Yuste%2C%20C%C3%A1ceres.jpg",
+    "entityID":"Q936453",
+    "format":"jpg",
+    "path":".\/images\/Yuste.jpg",
+    "size":[
+      4032,
+      2268
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument",
+      "#15\u00e8me si\u00e8cle",
+      "#Espagne",
+      "#gothique international"
+    ],
+    "year":1402.0,
+    "style":[
+      "Q867769"
+    ],
+    "orientation":1,
+    "artist":null,
+    "dateTaken":"2019:04:14 11:25:20",
+    "appareil":"Mi MIX 2S",
+    "dColors":[
+      [
+        19,
+        19,
+        10
+      ],
+      [
+        222,
+        221,
+        221
+      ],
+      [
+        127,
+        120,
+        70
+      ],
+      [
+        149,
+        192,
+        242
+      ],
+      [
+        72,
+        63,
+        32
+      ],
+      [
+        178,
+        167,
+        139
+      ]
+    ],
+    "dProportions":[
+      0.403527765,
+      0.0848260175,
+      0.1475406251,
+      0.0469348031,
+      0.1976029569,
+      0.1195678324
+    ]
+  },
+  "73":{
+    "label":"convent of San Marcos",
+    "link":"http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/05%20San%20Marcos.JPG",
+    "entityID":"Q744455",
+    "format":"JPG",
+    "path":".\/images\/convent of San Marcos.JPG",
+    "size":[
+      1536,
+      2048
+    ],
+    "sizeCategory":null,
+    "tags":[
+      "#monument",
+      "#18\u00e8me si\u00e8cle",
+      "#Espagne",
+      "#architecture de la Renaissance",
+      "#architecture de la Renaissance"
+    ],
+    "year":1716.0,
+    "style":[
+      "Q236122",
+      "Q236122"
+    ],
+    "orientation":1,
+    "artist":null,
+    "dateTaken":"2007:08:17 01:29:06",
+    "appareil":"DSC-P200",
+    "dColors":[
+      [
+        230,
+        234,
+        244
+      ],
+      [
+        103,
+        83,
+        59
+      ],
+      [
+        146,
+        128,
+        100
+      ],
+      [
+        173,
+        187,
+        213
+      ],
+      [
+        53,
+        40,
+        28
+      ],
+      [
+        187,
+        170,
+        141
+      ]
+    ],
+    "dProportions":[
+      0.2096128171,
+      0.2090406256,
+      0.182878759,
+      0.0785809651,
+      0.1468624833,
+      0.1730243499
     ]
   }
 }
